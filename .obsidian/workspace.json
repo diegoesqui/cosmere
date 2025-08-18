@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "57ae30e2b4f039b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d17ed10b9604279b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9a6ede91d35b46a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff5bc86042126c23",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8581ed1fae03871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a312ba1cf9f221f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ccf64710a7611c56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "388a38b813226f03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "328cb84c65e64ab2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0d332d219974b9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e55d5e7294fdbbf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cosmere/00_Meta/_Plantillas/Plantilla_Concepto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Plantilla_Concepto"
+            }
+          },
+          {
+            "id": "fefb16063de0151d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cosmere/00_Meta/_Plantillas/Plantilla_Concepto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Plantilla_Concepto"
+            }
+          },
+          {
+            "id": "c32ca31d66fc5d1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "69c81e9ef581e615",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cosmere/00_Meta/_Plantillas/Plantilla_Concepto.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plantilla_Concepto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f9a6ede91d35b46a",
+  "lastOpenFiles": [
+    "README.md",
+    "GEMINI.md",
+    "Cosmere/50_Lore_y_Conceptos/Sangre_Segura.md",
+    "Cosmere/50_Lore_y_Conceptos/El_camino_de_los_reyes_(libro).md",
+    "Cosmere/50_Lore_y_Conceptos/Caballeros_Radiantes.md",
+    "Cosmere/50_Lore_y_Conceptos/Armadura_Esquirlada.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Parshendi.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Parshmenios.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Adolin_Kholin.md",
+    "Cosmere/20_Personajes/Interdimensionales/Szeth-hijo-hijo-Vallano.md",
+    "Cosmere/20_Personajes/Interdimensionales/Hoid.md",
+    "Cosmere/10_Mundos/Shadesmar.md",
+    "Cosmere/10_Mundos/Roshar.md",
+    "Cosmere/10_Mundos/Llanuras_Quebradas.md",
+    "Cosmere/00_Meta/Cosmere.md",
+    "Cosmere/99_Analizados/1_El camino de los reyes - Brandon Sanderson.txt",
+    "Cosmere/40_Entidades_y_Fragmentos/Esquirlas_de_Adonalsium.md",
+    "Cosmere/40_Entidades_y_Fragmentos/Adonalsium.md",
+    "Cosmere/50_Lore_y_Conceptos/Juramentada.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Sylphrena.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Hesina.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Lirin.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Tien.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Lopen.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Sigzil.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Moash.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Roca.md",
+    "node_modules/path-dirname/license",
+    "node_modules/path-dirname/package.json",
+    "node_modules/path-dirname/index.js",
+    "node_modules/path-dirname",
+    "node_modules/fsevents/build/config.gypi",
+    "node_modules/fsevents/build",
+    "node_modules/es5-ext/package.json",
+    "node_modules/es5-ext/to-short-string-representation.js",
+    "node_modules/es5-ext/safe-to-string.js",
+    "node_modules/cli-width/coverage/lcov-report/sort-arrow-sprite.png"
+  ]
+}

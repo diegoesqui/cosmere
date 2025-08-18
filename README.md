@@ -12,7 +12,6 @@ La información está organizada en una estructura de carpetas que refleja las d
 * **30_Magia_e_Investidura:** Contiene notas sobre los diferentes sistemas de magia del Cosmere.
 * **40_Entidades_y_Fragmentos:** Contiene notas sobre las Esquirlas de Adonalsium y otras entidades importantes.
 * **50_Lore_y_Conceptos:** Contiene notas sobre conceptos generales del lore del Cosmere.
-* **99_Analizados:** Contiene los libros que ya han sido analizados.
 
 ## Uso
 

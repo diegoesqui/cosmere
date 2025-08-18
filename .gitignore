@@ -1,0 +1,13 @@
+Cosmere/0_A_Analizar/
+Cosmere/99_Analizados/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk

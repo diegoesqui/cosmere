@@ -15,12 +15,16 @@ Los spren son criaturas de [[Shadesmar]], el Reino Cognitivo, que se manifiestan
 * **Miedospren:** Atraídos por el miedo.
 * **Glorispren:** Atraídos por el éxito y la gloria.
 * **Honorspren:** Spren inteligentes y conscientes, asociados con la orden de los [[Corredores del Viento]]. [[Sylphrena]] es una honorspren.
+* **Crípticos (Mentiraspren):** Spren inteligentes y conscientes, asociados con la orden de los [[Tejedores de Luz]]. [[Patrón]] es un críptico.
+* **Cultivacispren:** Spren inteligentes y conscientes, asociados con la orden de los [[Danzantes del Filo]]. [[Wyndle]] es un cultivacispren.
+* **Altospren:** Spren inteligentes y conscientes, asociados con la orden de los [[Rompedores del Cielo]].
 
 ## Relación con la Investidura
 Los spren son una manifestación de la [[Investidura]] en [[Roshar]]. Algunos spren, como los honorspren, pueden formar un lazo nahel con un humano, otorgándole los poderes de un [[Caballero Radiante]].
 
 ## Conexiones Relevantes
-* **Personajes con lazos spren:** [[Kaladin]] ([[Sylphrena]]).
+* **Personajes con lazos spren:** [[Kaladin]] ([[Sylphrena]]), [[Shallan Davar]] ([[Patrón]]), [[Dalinar Kholin]] ([[Padre Tormenta]]), [[Renarin Kholin]] ([[Glys]]), [[Lift]] ([[Wyndle]]).
 
 ## Apariciones
 * [[El camino de los reyes]]
+* [[Palabras radiantes]]

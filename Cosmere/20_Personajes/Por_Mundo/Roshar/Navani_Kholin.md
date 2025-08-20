@@ -12,10 +12,15 @@ Viuda del rey [[Gavilar Kholin]], madre del rey [[Elhokar Kholin]] y de [[Jasnah
 Una mujer hermosa y majestuosa, con el pelo negro con algunas vetas de gris y ojos violeta. Es una mujer inteligente, astuta y a menudo manipuladora, con un gran talento para la intriga política. También es una apasionada de la ciencia y la ingeniería, y es la responsable del desarrollo de los arcos esquirlados.
 
 ## Historia
+### Sucesos en 'El camino de los reyes'
 Navani Kholin es una de las mujeres más influyentes de Alezkar. Tras el asesinato de su marido, se dedica a proteger a su hijo, el rey Elhokar, y a mantener la estabilidad del reino. Al final de "El camino de los reyes", regresa a las Llanuras Quebradas y comienza una relación con [[Dalinar Kholin]].
 
+### Sucesos en 'Palabras radiantes'
+Navani continúa su relación con [[Dalinar Kholin]], apoyándolo en sus esfuerzos por unificar a los altos príncipes. Su habilidad como artifabriana es crucial para el desarrollo de nuevas tecnologías, como los puentes móviles y los fabriales de calefacción. También juega un papel importante en la organización de la expedición a las [[Llanuras Quebradas]].
+
 ## Conexiones Relevantes
-* **Familia:** [[Gavilar Kholin]] (esposo, fallecido), [[Elhokar Kholin]] (hijo), [[Jasnah Kholin]] (hija), [[Dalinar Kholin]] (cuñado).
+* **Familia:** [[Gavilar Kholin]] (esposo, fallecido), [[Elhokar Kholin]] (hijo), [[Jasnah Kholin]] (hija), [[Dalinar Kholin]] (cuñado/amante).
 
 ## Apariciones
 * [[El camino de los reyes]]
+* [[Palabras radiantes]]

@@ -21,6 +21,11 @@ Venli es la hermana de [[Eshonai]] y una de las líderes de los [[Parshendi]]. D
 ## Conexiones Relevantes
 * **Familia:** [[Eshonai]] (hermana).
 * **Pueblo:** [[Parshendi]].
+* **Spren:** [[Ulim]]
+
+### Sucesos en 'Juramentada'
+En "Juramentada", Venli se encuentra en las [[Llanuras Quebradas]] tras la batalla de Narak. Está en forma de tormenta y es guiada por el vacíospren [[Ulim]]. Se revela que su motivación para buscar la forma de tormenta era el poder y el reconocimiento. Encuentra el cadáver de su hermana [[Eshonai]] y reclama su [[Armadura Esquirlada]] y [[Hoja Esquirlada]].
 
 ## Apariciones
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

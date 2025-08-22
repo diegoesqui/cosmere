@@ -22,5 +22,9 @@ Eshonai es una de las líderes de los [[Parshendi]] en la guerra contra los alez
 * **Familia:** [[Venli]] (hermana).
 * **Pueblo:** [[Parshendi]].
 
+### Sucesos en 'Juramentada'
+En el prólogo de "Juramentada", se revela que Eshonai fue una de las primeras en establecer contacto con los humanos. Se muestra su perspectiva sobre el conflicto y su papel en la decisión de asesinar a [[Gavilar Kholin]] para evitar el regreso de los dioses parshendi. Se confirma que murió en la batalla de Narak, ahogada por la tormenta.
+
 ## Apariciones
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

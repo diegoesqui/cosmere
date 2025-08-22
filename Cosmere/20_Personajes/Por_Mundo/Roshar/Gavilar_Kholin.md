@@ -21,5 +21,9 @@ Gavilar Kholin fue el rey que unificó Alezkar. En una expedición a las [[Llanu
 * **Familia:** [[Dalinar Kholin]] (hermano), [[Elhokar Kholin]] (hijo), [[Jasnah Kholin]] (hija), [[Navani Kholin]] (esposa).
 * **Asesino:** [[Szeth-hijo-hijo-Vallano]].
 
+### Sucesos en 'Juramentada'
+En el prólogo de "Juramentada", se revela que Gavilar estaba intentando traer de vuelta a los [[Portadores del Vacío]] para unificar Roshar contra una amenaza común. Le entregó a [[Eshonai]] una esfera de luz oscura, una manifestación de [[Odium]], con la esperanza de que los parshendi aceptaran el regreso de sus dioses. Su plan fue la causa directa de su asesinato por parte de los [[Parshendi]], que temían el regreso de sus antiguos dioses.
+
 ## Apariciones
 * [[El camino de los reyes]] (mencionado)
+* [[Juramentada (libro)]] (prólogo)

@@ -13,6 +13,10 @@ Los Portadores del Vacío lucharon contra los [[Caballeros Radiantes]] y los [[H
 ## Conexiones Relevantes
 * **Relacionados:** [[Parshendi]], [[Parshmenios]], [[Desolaciones]], [[Odium]].
 
+### Sucesos en 'Juramentada'
+En "Juramentada", los [[Parshmenios]] de todo Roshar son transformados en [[Portadores del Vacío]] por la [[Tormenta Eterna]]. Se revelan nuevas formas de Portadores del Vacío, con habilidades y poderes aterradores. Se confirma que están al servicio de [[Odium]] y su objetivo es la aniquilación de la humanidad.
+
 ## Apariciones
 * [[El camino de los reyes]]
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

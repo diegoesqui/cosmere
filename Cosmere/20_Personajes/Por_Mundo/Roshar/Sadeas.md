@@ -27,6 +27,10 @@ Sadeas continúa sus maquinaciones políticas contra [[Dalinar Kholin]], intenta
 * **Aliados:** [[Elhokar Kholin]] (a veces), [[Ialai Sadeas]] (esposa).
 * **Enemigos:** [[Dalinar Kholin]], [[Adolin Kholin]].
 
+### Sucesos en 'Juramentada'
+El cuerpo de Sadeas es encontrado en los pasillos de [[Urithiru]]. Su asesinato, junto con el de otros ojos claros, desencadena una investigación liderada por [[Adolin Kholin]]. La muerte de Sadeas aumenta la tensión y la desconfianza entre los diferentes facciones alezi en Urithiru.
+
 ## Apariciones
 * [[El camino de los reyes]]
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

@@ -34,6 +34,10 @@ Szeth continúa su misión de asesinar a los líderes de Roshar, siguiendo las �
 * **Aliados:** [[Nalan]].
 * **Enemigos:** [[Kaladin]].
 
+### Sucesos en 'Juramentada'
+En "Juramentada", Szeth se entrena como un [[Rompedor del Cielo]] bajo la tutela de [[Nalan]]. Lucha por reconciliar su pasado como el Asesino de Blanco con su nuevo papel como un agente de la justicia. Comienza a vincular a un altospren y a aprender los ideales de su nueva orden. Se le encomienda la tarea de cazar a [[Lift]].
+
 ## Apariciones
 * [[El camino de los reyes]]
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

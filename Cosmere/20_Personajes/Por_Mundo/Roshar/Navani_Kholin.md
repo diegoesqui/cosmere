@@ -19,8 +19,12 @@ Navani Kholin es una de las mujeres más influyentes de Alezkar. Tras el asesina
 Navani continúa su relación con [[Dalinar Kholin]], apoyándolo en sus esfuerzos por unificar a los altos príncipes. Su habilidad como artifabriana es crucial para el desarrollo de nuevas tecnologías, como los puentes móviles y los fabriales de calefacción. También juega un papel importante en la organización de la expedición a las [[Llanuras Quebradas]].
 
 ## Conexiones Relevantes
-* **Familia:** [[Gavilar Kholin]] (esposo, fallecido), [[Elhokar Kholin]] (hijo), [[Jasnah Kholin]] (hija), [[Dalinar Kholin]] (cuñado/amante).
+* **Familia:** [[Gavilar Kholin]] (esposo, fallecido), [[Elhokar Kholin]] (hijo), [[Jasnah Kholin]] (hija), [[Dalinar Kholin]] (esposo).
+
+### Sucesos en 'Juramentada'
+En "Juramentada", Navani se casa con [[Dalinar Kholin]] en una ceremonia oficiada por el [[Padre Tormenta]]. Se establece en [[Urithiru]] y se convierte en una figura clave en la gestión de la ciudad y el apoyo a los nuevos [[Caballeros Radiantes]]. Continúa sus investigaciones como artifabriana, trabajando en la comprensión de la tecnología de Urithiru y los fabriales.
 
 ## Apariciones
 * [[El camino de los reyes]]
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

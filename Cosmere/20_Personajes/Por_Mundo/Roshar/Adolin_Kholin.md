@@ -31,6 +31,10 @@ Al final del libro, tras la batalla contra los [[Parshendi]] en las [[Llanuras Q
 * **Aliados:** [[Kaladin]], [[Puente Cuatro]], [[Jakamav]], [[Relis]], [[Elit]].
 * **Enemigos:** [[Sadeas]].
 
+### Sucesos en 'Juramentada'
+En "Juramentada", Adolin se encuentra en [[Urithiru]] y es asignado por su padre para investigar los asesinatos de [[Sadeas]] y otros ojos claros. Lucha con la culpa de haber asesinado a Sadeas y con sus propios sentimientos de ineptitud en comparación con los [[Caballeros Radiantes]] que lo rodean. Su relación con [[Shallan Davar]] se profundiza, y comienza a entrenarla en el uso de la [[Hoja Esquirlada]]. Pierde a su caballo ryshadio, [[Sangre Segura]], en la batalla de Narak. Su muñeca rota es curada por su hermano [[Renarin Kholin]], revelando los poderes de Renarin como [[Vigilante de la Verdad]].
+
 ## Apariciones
 * [[El camino de los reyes]]
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

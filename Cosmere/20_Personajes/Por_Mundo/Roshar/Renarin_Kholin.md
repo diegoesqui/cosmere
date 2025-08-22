@@ -25,6 +25,10 @@ Renarin se une al [[Puente Cuatro]] para aprender a ser soldado. Recibe una [[Ho
 * **Familia:** [[Dalinar Kholin]] (padre), [[Adolin Kholin]] (hermano), [[Elhokar Kholin]] (primo), [[Navani Kholin]] (tía).
 * **Spren:** [[Glys]].
 
+### Sucesos en 'Juramentada'
+En "Juramentada", Renarin se encuentra en [[Urithiru]] y lucha por aceptar su papel como [[Vigilante de la Verdad]]. Se revela que su spren, [[Glys]], está "corrupto" por la influencia de [[Odium]], lo que le permite ver el futuro con una precisión aterradora. Utiliza su poder de [[Progresión]] para curar la muñeca rota de su hermano [[Adolin Kholin]]. Invoca por primera vez su propia [[Hoja Esquirlada]] Radiante. Se integra cada vez más en el [[Puente Cuatro]], donde es aceptado como uno más a pesar de su estatus de ojos claros.
+
 ## Apariciones
 * [[El camino de los reyes]]
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

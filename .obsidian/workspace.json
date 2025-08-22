@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "3416308f5ddd48d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1aeb51ba2ddba4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf849c8e07e2de46",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "067cb10f6be4e174",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab316286aaa0910f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d33af081299265",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f632b76eb8f6589e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "80baf29f9c16c981",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54e9a9b90012f01a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7196f70ff19abae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af28bf2cac332b69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cosmere/30_Magia_e_Investidura/AonDor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AonDor"
+            }
+          },
+          {
+            "id": "3df383790308062a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cosmere/30_Magia_e_Investidura/AonDor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AonDor"
+            }
+          },
+          {
+            "id": "0e49228ce9bcfd9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "50a35756561c5fb4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cosmere/30_Magia_e_Investidura/AonDor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AonDor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bf849c8e07e2de46",
+  "lastOpenFiles": [
+    "Cosmere/10_Mundos/Scadrial.md",
+    "Cosmere/10_Mundos/Sel.md",
+    "Cosmere/10_Mundos/Llanuras_Quebradas.md",
+    "Cosmere/10_Mundos/Elantris.md",
+    "Cosmere/30_Magia_e_Investidura/AonDor.md",
+    "Cosmere/30_Magia_e_Investidura/Shaod.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Ym.md",
+    "Cosmere/20_Personajes/Interdimensionales/Iyatil.md",
+    "Cosmere/10_Mundos/Yolen.md",
+    "Cosmere/10_Mundos/Shadesmar.md",
+    "Cosmere/10_Mundos/Sedetormenta.md"
+  ]
+}

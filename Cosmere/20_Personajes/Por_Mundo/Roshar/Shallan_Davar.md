@@ -1,43 +1,30 @@
 ---
-tags: personaje, Roshar
-alias: [Velo]
+tags: personaje, Roshar, TejedoraDeLuz
+alias: [Velo, Radiante]
 ---
 
 # Shallan Davar
 
-## Resumen
-Una joven ojos claros de Jah Keved que busca convertirse en la pupila de la famosa erudita [[Jasnah Kholin]] para robar su moldeador de almas y salvar a su familia de la ruina. Es una [[Tejedora de Luz]] y una artista de gran talento.
+## Descripción General
+Shallan Davar es una ojos claros de [[Jah Keved]]. Es una [[Tejedora de Luz]], una [[Caballero Radiante]] que ha vinculado al crípticospren [[Patrón]]. Es una erudita y una artista consumada, con la habilidad de crear [[Ilusiones]] y [[Moldeado de Almas]].
 
-## Apariencia y Personalidad
-De piel pálida, pelo rojo y ojos celestes. Es una artista de gran talento, con una mente aguda y una lengua afilada que a menudo oculta tras una fachada de timidez. Es curiosa, inteligente y decidida, aunque a menudo se siente insegura y atormentada por su pasado. A lo largo de "Palabras radiantes", desarrolla una segunda personalidad, Velo, para infiltrarse en los [[Sangre Espectral]].
+## Sucesos en 'El camino de los reyes'
+En "El camino de los reyes", Shallan viaja a [[Kharbranth]] para convertirse en la pupila de [[Jasnah Kholin]]. Su objetivo secreto es robar el [[Moldeador de Almas]] de Jasnah para salvar a su familia de la ruina. Descubre sus poderes como Tejedora de Luz y comienza a vincular a Patrón.
 
-## Habilidades e Investidura
-Shallan es una [[Tejedora de Luz]], lo que le permite usar dos Potenciaciones:
-- **Iluminación:** La capacidad de crear ilusiones visuales y auditivas.
-- **Transformación:** La capacidad de transformar objetos en otras sustancias, similar a un [[Moldeador de Almas]].
+## Sucesos en 'Palabras radiantes'
+En "Palabras radiantes", Shallan viaja a las [[Llanuras Quebradas]] para unirse a la expedición de [[Dalinar Kholin]]. Desarrolla sus poderes, creando una personalidad alternativa llamada "Velo" para infiltrarse en la sociedad secreta de los [[Sangre Espectral]]. Se compromete con [[Adolin Kholin]].
 
-También tiene una memoria fotográfica excepcional, que utiliza para sus dibujos. Su spren, [[Patrón]], le ayuda a desarrollar sus poderes.
-
-## Historia
-### Sucesos en 'El camino de los reyes'
-Shallan pertenece a la casa Davar, una familia noble de Jah Keved que se encuentra en una situación financiera desesperada tras la muerte de su padre. Para salvar a su familia, Shallan trama un plan para robar el moldeador de almas de [[Jasnah Kholin]].
-
-Viaja a Kharbranth y, tras un largo periplo, consigue ser aceptada como pupila de Jasnah. Durante su tiempo con la princesa, comienza a desarrollar sus poderes como Tejedora de Luz, a menudo de forma inconsciente. Finalmente, roba el moldeador de almas de Jasnah, pero descubre que es una falsificación y que sus propios poderes son los que le permiten moldear almas.
-
-Tras un intento de asesinato por parte de un miembro de los [[Sangre Espectral]], Jasnah revela a Shallan la verdad sobre los [[Portadores del Vacío]] y los [[Parshendi]]. Shallan decide unirse a Jasnah en su investigación y viajan juntas a las Llanuras Quebradas.
-
-### Sucesos en 'Palabras radiantes'
-El barco en el que viajan Shallan y Jasnah es atacado por los [[Sangre Espectral]], y Jasnah es aparentemente asesinada. Shallan sobrevive y, con la ayuda de su spren, [[Patrón]], comienza a desarrollar sus poderes como Tejedora de Luz. Llega a las [[Llanuras Quebradas]] y se reúne con la familia Kholin, donde se compromete con [[Adolin Kholin]].
-
-Shallan se infiltra en los [[Sangre Espectral]] bajo el disfraz de Velo, y descubre que están buscando [[Urithiru]] y que su hermano [[Helaran]] era uno de ellos. También descubre que su padre estaba involucrado con ellos. Al final del libro, encuentra la Puerta Jurada a Urithiru y transporta a los ejércitos alezi a la ciudad perdida.
+## Sucesos en 'Juramentada'
+En "Juramentada", Shallan se encuentra en [[Urithiru]] y es una pieza clave para la activación de las [[Puertas Juradas]]. Lucha con la verdad sobre su pasado, especialmente el asesinato de su madre, que se revela como uno de sus Ideales Radiantes. Para lidiar con su trauma, crea una nueva personalidad, "Radiante", además de "Velo". Como Velo, se infiltra en los bajos fondos de Urithiru para investigar los asesinatos, descubriendo que las muertes de la esposa de un borracho y una camarera están relacionadas con el asesinato de [[Sadeas]]. Se entera de que [[Amaram]] está en Urithiru y que los [[Sangre Espectral]] quieren que investigue la fuente de la oscuridad en la torre. Comienza a entrenar con la [[Hoja Esquirlada]] con [[Adolin Kholin]].
 
 ## Conexiones Relevantes
-* **Maestra:** [[Jasnah Kholin]]
-* **Familia:** [[Lin Davar]] (padre, fallecido), [[Nan Balat]] (hermano), [[Tet Wikim]] (hermano), [[Asha Jushu]] (hermano), [[Helaran]] (hermano, fallecido).
-* **Prometido:** [[Adolin Kholin]].
-* **Spren:** [[Patrón]].
-* **Organizaciones:** [[Sangre Espectral]].
+* **Familia:** [[Lin Davar]] (padre), madre sin nombre (fallecida), [[Helaran Davar]] (hermano), [[Balat Davar]] (hermano), [[Wikim Davar]] (hermano), [[Jushu Davar]] (hermano).
+* **Spren:** [[Patrón]]
+* **Orden Radiante:** [[Tejedores de Luz]]
+* **Aliados:** [[Jasnah Kholin]], [[Dalinar Kholin]], [[Adolin Kholin]], [[Kaladin]]
+* **Enemigos:** [[Sangre Espectral]]
 
 ## Apariciones
-* [[El camino de los reyes]]
-* [[Palabras radiantes]]
+* [[El camino de los reyes (libro)]]
+* [[Palabras radiantes (libro)]]
+* [[Juramentada (libro)]]

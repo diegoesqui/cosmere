@@ -1,36 +1,30 @@
 ---
-tags: personaje, Roshar
-alias: [El Espina Negra]
+tags: personaje, Roshar, Kholin, ForjadorDeVinculos
+alias: [Espina Negra]
 ---
 
 # Dalinar Kholin
 
-## Resumen
-Alto príncipe de Alezkar, hermano del asesinado rey [[Gavilar Kholin]] y tío del actual rey, [[Elhokar Kholin]]. Es un guerrero legendario y un hombre de honor que se guía por los Códigos de Guerra. Sufre visiones durante las altas tormentas que lo instan a unificar a los altos príncipes y a refundar los [[Caballeros Radiantes]].
+## Descripción General
+Dalinar Kholin es el Alto Príncipe de Kholin, hermano del difunto rey [[Gavilar Kholin]] y tío del actual rey [[Elhokar Kholin]]. Es uno de los hombres más poderosos de [[Alezkar]] y un [[Portador de Esquirlada]] de renombre. Es conocido como "la Espina Negra" por su brutalidad y eficacia en el campo de batalla.
 
-## Apariencia y Personalidad
-Un hombre de mediana edad, alto y de constitución robusta, con el pelo negro encanecido en las sienes y ojos azules. Es un hombre serio, disciplinado y honorable, aunque a menudo se muestra rígido e inflexible. Es un líder nato y un estratega brillante, pero sufre de una profunda culpa por la muerte de su hermano. En "Palabras radiantes", comienza a aceptar su pasado y a mostrar una mayor flexibilidad y compasión.
+## Sucesos en 'El camino de los reyes'
+En "El camino de los reyes", Dalinar es atormentado por visiones de las antiguas Desolaciones, enviadas por el [[Todopoderoso]]. Estas visiones lo llevan a cuestionar la guerra sin sentido en las [[Llanuras Quebradas]] y a buscar la unificación de los altos príncipes alezi. Es traicionado por [[Sadeas]] y dado por muerto, pero es salvado por [[Kaladin]] y el [[Puente Cuatro]].
 
-## Habilidades e Investidura
-Dalinar es un [[Forjador de Vínculos]], y su spren es el mismísimo [[Padre Tormenta]]. Sus poderes se manifiestan a través de visiones que recibe durante las altas tormentas, y al final de "Palabras radiantes" comienza a desarrollar la capacidad de usar la [[Investidura]]. Es un portador de esquirlada completo, con la armadura y la hoja esquirlada [[Juramentada]], aunque renuncia a esta última para salvar al [[Puente Cuatro]].
+## Sucesos en 'Palabras radiantes'
+En "Palabras radiantes", Dalinar continúa sus esfuerzos por unificar a los altos príncipes. Se convierte en un [[Caballero Radiante]] de la orden de los [[Forjadores de Vínculos]] al vincular al [[Padre Tormenta]]. Lidera la expedición a las Llanuras Quebradas y descubre la ciudad de [[Urithiru]].
 
-## Historia
-### Sucesos en 'El camino de los reyes'
-Dalinar Kholin es uno de los diez altos príncipes de Alezkar. Junto a su hermano Gavilar, unificó el reino tras años de guerra. Tras el asesinato de Gavilar, Dalinar se dedica a proteger a su sobrino, el rey Elhokar, y a cumplir el Pacto de la Venganza contra los [[Parshendi]].
-
-En las Llanuras Quebradas, Dalinar comienza a tener visiones durante las altas tormentas, que le revelan fragmentos del pasado y lo instan a unificar a los altos príncipes. Estas visiones, junto con su insistencia en seguir los antiguos Códigos de Guerra, lo convierten en un paria entre los demás altos príncipes, que lo consideran débil y anticuado.
-
-Tras ser traicionado por [[Sadeas]] en la batalla de la Torre, Dalinar es rescatado por el [[Puente Cuatro]]. Como recompensa, compra la libertad de todos los hombres de los puentes de Sadeas y nombra a [[Kaladin]] capitán de su guardia de honor. Al final del libro, decide obligar a los altos príncipes a unirse bajo su mando, nombrándose a sí mismo alto príncipe de la guerra.
-
-### Sucesos en 'Palabras radiantes'
-Dalinar continúa su esfuerzo por unificar a los altos príncipes, utilizando una combinación de diplomacia, duelos y amenazas. Comienza una relación con [[Navani Kholin]]. Se enfrenta a la revelación de que [[Amaram]] es un asesino y un ladrón, y se ve obligado a cuestionar su juicio y su confianza en los demás. Al final del libro, lidera una expedición a las [[Llanuras Quebradas]] para enfrentarse a los [[Parshendi]] y descubre la ciudad perdida de [[Urithiru]]. Pronuncia el Primer Ideal de los [[Caballeros Radiantes]] y se vincula con el [[Padre Tormenta]].
+## Sucesos en 'Juramentada'
+En "Juramentada", Dalinar se establece en Urithiru y asume el liderazgo de la coalición contra la nueva [[Desolación]]. Ahora puede controlar sus visiones y usarlas para obtener información sobre el enemigo. Se casa con [[Navani Kholin]] en una ceremonia oficiada por el propio [[Padre Tormenta]]. Se revela que tiene un pasado oscuro en un lugar llamado Rathalas, también conocido como la Grieta, donde en su juventud cometió actos de gran brutalidad, incluyendo el asesinato del señor de la ciudad y su heredero. Adquiere la [[Hoja Esquirlada]] [[Juramentada]], que perteneció al Hacedor de Soles. Comienza a recordar a su difunta esposa, [[Evi]]. Lucha por unificar a los monarcas de Roshar, pero se encuentra con la resistencia de muchos de ellos.
 
 ## Conexiones Relevantes
-* **Familia:** [[Gavilar Kholin]] (hermano, fallecido), [[Elhokar Kholin]] (sobrino), [[Adolin Kholin]] (hijo), [[Renarin Kholin]] (hijo), [[Navani Kholin]] (cuñada/amante).
-* **Aliados:** [[Kaladin]], [[Puente Cuatro]], [[Aladar]], [[Roion]], [[Sebarial]].
-* **Enemigos:** [[Sadeas]], [[Parshendi]].
-* **Spren:** [[Padre Tormenta]].
+* **Familia:** [[Gavilar Kholin]] (hermano), [[Elhokar Kholin]] (sobrino), [[Adolin Kholin]] (hijo), [[Renarin Kholin]] (hijo), [[Navani Kholin]] (esposa), [[Evi]] (esposa, fallecida).
+* **Spren:** [[Padre Tormenta]]
+* **Orden Radiante:** [[Forjadores de Vínculos]]
+* **Aliados:** [[Kaladin]], [[Shallan Davar]], [[Aladar]], [[Sebarial]]
+* **Enemigos:** [[Sadeas]], [[Odium]]
 
 ## Apariciones
-* [[El camino de los reyes]]
-* [[Palabras radiantes]]
+* [[El camino de los reyes (libro)]]
+* [[Palabras radiantes (libro)]]
+* [[Juramentada (libro)]]

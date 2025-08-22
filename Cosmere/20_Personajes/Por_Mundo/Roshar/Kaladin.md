@@ -1,43 +1,30 @@
 ---
-tags: personaje, Roshar
-alias: [Kaladin Bendito por la Tormenta, Kal]
+tags: personaje, Roshar, CorredorDelViento
+alias: [Kal, Tempestad, Kaladin Bendito por la Tormenta]
 ---
 
 # Kaladin
 
-## Resumen
-Un joven ojos oscuros de Alezkar que, tras ser traicionado y convertido en esclavo, se convierte en el líder del [[Puente Cuatro]] y comienza a descubrir sus poderes como [[Corredor del Viento]].
+## Descripción General
+Kaladin es un ojos oscuros de [[Alezkar]], originario del pueblo de [[Piedralar]]. Es un [[Corredor del Viento]], un [[Caballero Radiante]] que ha vinculado a la honorspren [[Sylphrena]]. Es un hábil lancero y un líder nato.
 
-## Apariencia y Personalidad
-Alto y de constitución musculosa, con el pelo negro y largo hasta los hombros y ojos marrón oscuro. Es un líder nato, con un fuerte sentido del honor y la responsabilidad, aunque a menudo lucha contra la depresión y la desesperación. Su odio hacia los ojos claros, especialmente hacia [[Amaram]], es una fuerza motriz en su vida.
+## Sucesos en 'El camino de los reyes'
+En "El camino de los reyes", Kaladin es un esclavo en el ejército de [[Sadeas]], forzado a trabajar como hombre de los puentes. Se convierte en el líder del [[Puente Cuatro]] y logra salvar a sus hombres de una muerte segura. Al final del libro, jura los primeros ideales de los Corredores del Viento y comienza a desarrollar sus poderes.
 
-## Habilidades e Investidura
-Como [[Corredor del Viento]], Kaladin puede manipular la [[Investidura]] para usar dos Potenciaciones principales: la Adhesión y la Gravitación. Esto le permite:
-- **Adhesión:** Unir objetos entre sí o a superficies.
-- **Gravitación:** Manipular la gravedad, permitiéndole correr por las paredes o "caer" en cualquier dirección. También aprende a volar.
-- **Curación acelerada:** La luz tormentosa le permite sanar de heridas a un ritmo acelerado, incluso de heridas de [[Hoja Esquirlada]].
+## Sucesos en 'Palabras radiantes'
+En "Palabras radiantes", Kaladin se convierte en el capitán de la guardia real de [[Dalinar Kholin]] y [[Elhokar Kholin]]. Lucha contra [[Szeth]] y protege a Dalinar. Aprende a controlar mejor sus poderes y jura el segundo y tercer ideal de los Corredores del Viento.
 
-También es un lancero excepcionalmente hábil.
-
-## Historia
-### Sucesos en 'El camino de los reyes'
-Hijo de un cirujano, Kaladin se unió al ejército del brillante señor [[Amaram]] para proteger a su hermano [[Tien]]. Tras la muerte de Tien, Kaladin se convierte en un soldado excepcional, pero es traicionado por Amaram y vendido como esclavo.
-
-Como esclavo, es asignado al [[Puente Cuatro]], una de las cuadrillas de puentes del ejército del alto príncipe [[Sadeas]]. A pesar de las terribles condiciones, Kaladin se convierte en el líder de su cuadrilla, los inspira y los entrena para sobrevivir. Durante este tiempo, comienza a manifestar sus poderes como Corredor del Viento, a menudo sin ser consciente de ello.
-
-En la batalla de la Torre, el Puente Cuatro es abandonado junto con el resto del ejército de [[Dalinar Kholin]]. Kaladin y sus hombres deciden regresar para ayudar, y su intervención es clave para salvar a una parte del ejército. Como recompensa, Dalinar Kholin le concede la libertad a él y a todos los hombres de los puentes de Sadeas, y nombra a Kaladin capitán de su guardia de honor.
-
-### Sucesos en 'Palabras radiantes'
-Kaladin asume su nuevo papel como capitán de la guardia de [[Dalinar Kholin]], entrenando a los antiguos hombres de los puentes y protegiendo al alto príncipe y su familia. Lucha por reconciliar su odio hacia los ojos claros con su deber hacia Dalinar. Su vínculo con [[Sylphrena]] se fortalece, y aprende a controlar mejor sus poderes, incluyendo la capacidad de volar.
-
-Se enfrenta a [[Szeth-hijo-hijo-Vallano]] en una batalla épica, y aunque resulta gravemente herido, consigue derrotarlo. Al final del libro, pronuncia el Tercer Ideal de los Corredores del Viento, recuperando sus poderes y su vínculo con Syl.
+## Sucesos en 'Juramentada'
+En "Juramentada", Kaladin viaja a su hogar, [[Piedralar]], para advertir a su familia sobre la [[Tormenta Eterna]]. Descubre que tiene un nuevo hermano pequeño llamado [[Oroden]]. Se embarca en una misión para rastrear a los [[Portadores del Vacío]] y descubrir sus planes. Se encuentra con un grupo de [[Parshmenios]] fugados y, en lugar de luchar contra ellos, comienza a ayudarlos a sobrevivir. Descubre que están siendo guiados por un spren amarillo y que no todos los parshmenios se han convertido en monstruos violentos. Esto le provoca un profundo conflicto interno sobre su papel en la guerra y la naturaleza de sus enemigos.
 
 ## Conexiones Relevantes
-* **Aliados:** [[Teft]], [[Roca]], [[Moash]], [[Sigzil]], [[Lopen]], [[Dalinar Kholin]], [[Adolin Kholin]].
-* **Enemigos:** [[Sadeas]], [[Amaram]], [[Szeth-hijo-hijo-Vallano]].
-* **Familia:** [[Lirin]] (padre), [[Hesina]] (madre), [[Tien]] (hermano, fallecido).
-* **Spren:** [[Sylphrena]] (Syl).
+* **Familia:** [[Lirin]] (padre), [[Hesina]] (madre), [[Tien]] (hermano), [[Oroden]] (hermano).
+* **Spren:** [[Sylphrena]]
+* **Orden Radiante:** [[Corredores del Viento]]
+* **Aliados:** [[Dalinar Kholin]], [[Adolin Kholin]], [[Shallan Davar]], [[Puente Cuatro]]
+* **Enemigos:** [[Amaram]], [[Moash]], [[Graves]]
 
 ## Apariciones
-* [[El camino de los reyes]]
-* [[Palabras radiantes]]
+* [[El camino de los reyes (libro)]]
+* [[Palabras radiantes (libro)]]
+* [[Juramentada (libro)]]

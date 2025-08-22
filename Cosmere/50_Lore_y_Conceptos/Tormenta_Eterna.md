@@ -16,5 +16,9 @@ En "Palabras radiantes", los [[Parshendi]], liderados por [[Eshonai]] y [[Venli]
 ## Conexiones Relevantes
 * **Relacionado con:** [[Portadores del Vacío]], [[Parshendi]], [[Desolaciones]].
 
+### Sucesos en 'Juramentada'
+En "Juramentada", la [[Tormenta Eterna]] recorre Roshar de oeste a este, en un ciclo continuo. Se confirma que es una creación de [[Odium]] y que su propósito es transformar a los [[Parshmenios]] en [[Portadores del Vacío]] y servir como una fuente de poder para ellos. La tormenta es descrita como una fuerza antinatural y llena de odio.
+
 ## Apariciones
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

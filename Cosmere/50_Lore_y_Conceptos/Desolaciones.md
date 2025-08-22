@@ -13,6 +13,10 @@ En el pasado, las Desolaciones ocurrían a intervalos regulares. Durante cada De
 ## Conexiones Relevantes
 * **Relacionados:** [[Portadores del Vacío]], [[Heraldos]], [[Caballeros Radiantes]], [[Tormenta Eterna]].
 
+### Sucesos en 'Juramentada'
+En "Juramentada", la nueva Desolación, también llamada la Auténtica Desolación, ha comenzado. La [[Tormenta Eterna]] recorre Roshar, despertando a los [[Parshmenios]] y transformándolos en [[Portadores del Vacío]]. Se revela que el objetivo de [[Odium]] en esta Desolación es nombrar a un campeón para que luche contra el campeón de [[Honor]]. Dalinar ve en una visión al campeón de Odium, una figura con armadura negra y nueve sombras.
+
 ## Apariciones
 * [[El camino de los reyes]]
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

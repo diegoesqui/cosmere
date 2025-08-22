@@ -14,5 +14,9 @@ Odium ha viajado por el [[Cosmere]], destruyendo otras [[Esquirlas de Adonalsium
 * **Enemigos:** [[Honor]], [[Cultivación]], [[Dalinar Kholin]].
 * **Sirvientes:** [[Portadores del Vacío]].
 
+### Sucesos en 'Juramentada'
+En "Juramentada", se revela que el objetivo de Odium es convertirse en la única [[Esquirla de Adonalsium]] del [[Cosmere]], no combinando las demás Esquirlas, sino astillándolas. Se revela que la [[Emoción]], la emoción de la batalla que siente Dalinar, es una manifestación de la influencia de Odium. Odium busca un campeón para que luche en su nombre contra el campeón de [[Honor]]. Dalinar ve a este campeón en una visión, una figura con armadura negra y nueve sombras, que se revela como los [[Deshechos]].
+
 ## Apariciones
 * [[Palabras radiantes]] (mencionado)
+* [[Juramentada (libro)]]

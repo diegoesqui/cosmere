@@ -21,5 +21,13 @@ Elhokar se convierte en rey de Alezkar tras el asesinato de su padre, [[Gavilar 
 * **Familia:** [[Gavilar Kholin]] (padre, fallecido), [[Dalinar Kholin]] (tío), [[Adolin Kholin]] (primo), [[Renarin Kholin]] (primo), [[Jasnah Kholin]] (hermana), [[Navani Kholin]] (madre).
 * **Aliados:** [[Sadeas]].
 
+### Sucesos en 'Palabras radiantes'
+En "Palabras radiantes", Elhokar comienza a desconfiar de [[Sadeas]] y a acercarse a su tío [[Dalinar Kholin]]. Lidera la expedición a las [[Llanuras Quebradas]] y participa en la batalla contra los [[Parshendi]]. Es herido en un intento de asesinato por parte de [[Moash]] y [[Graves]].
+
+### Sucesos en 'Juramentada'
+En "Juramentada", Elhokar se encuentra en [[Urithiru]], recuperándose de sus heridas. Lucha con sus sentimientos de ineptitud como rey y su deseo de convertirse en un [[Caballero Radiante]]. Comienza a ver crípticospren, lo que sugiere que tiene el potencial de convertirse en un [[Tejedor de Luz]].
+
 ## Apariciones
 * [[El camino de los reyes]]
+* [[Palabras radiantes (libro)]]
+* [[Juramentada (libro)]]

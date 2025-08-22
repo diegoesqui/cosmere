@@ -16,5 +16,22 @@ En "Palabras radiantes", [[Shallan Davar]] descubre la Puerta Jurada de las [[Ll
 ## Conexiones Relevantes
 * **Relacionado con:** [[Urithiru]], [[Caballeros Radiantes]].
 
+### Sucesos en 'Juramentada'
+En "Juramentada", se revela que solo un [[Caballero Radiante]] de pleno derecho puede operar las Puertas Juradas. Se establece que hay diez Puertas Juradas en total, ubicadas en:
+* [[Urithiru]] (el nexo)
+* Las [[Llanuras Quebradas]]
+* [[Kholinar]]
+* [[Vedenar]]
+* [[Ciudad Thaylen]]
+* [[Azimir]]
+* [[Rira]] (en la ciudad de Kurth)
+* [[Shinovar]]
+* [[Babazarnam]]
+* [[Rall Elorim]]
+* Una décima puerta se perdió en [[Aimia]].
+
+Para activar una Puerta Jurada, debe ser desbloqueada desde ambos extremos.
+
 ## Apariciones
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

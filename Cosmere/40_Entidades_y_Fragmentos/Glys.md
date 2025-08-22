@@ -17,5 +17,9 @@ Glys forma un lazo nahel con [[Renarin Kholin]], convirtiéndolo en un [[Vigilan
 ## Conexiones Relevantes
 * **Vinculado a:** [[Renarin Kholin]].
 
+### Sucesos en 'Juramentada'
+En "Juramentada", se revela que Glys es un spren "corrupto", influenciado por [[Odium]]. Esta corrupción es la que permite a [[Renarin Kholin]] ver el futuro con tanta claridad, pero también le muestra visiones aterradoras y le hace temer por su propia naturaleza.
+
 ## Apariciones
 * [[Palabras radiantes]] (mencionado)
+* [[Juramentada (libro)]]

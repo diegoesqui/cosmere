@@ -8,7 +8,7 @@ tags: mundo, Roshar
 Kholinar es la capital de [[Alezkar]] y la sede del poder de la monarquía Kholin. Es una de las ciudades más grandes y magníficas de [[Roshar]], y está protegida por enormes murallas.
 
 ## Sucesos en 'Juramentada'
-En "Juramentada", Kholinar es asediada por los [[Portadores del Vacío]]. La ciudad sufre revueltas internas y la comunicación con el exterior se corta. Se revela que la ciudad tiene una [[Puerta Jurada]] a [[Urithiru]].
+En "Juramentada", Kholinar es asediada por los [[Portadores del Vacío]]. La ciudad está sumida en el caos, con disturbios y una población entregada a un desenfreno apático. Esta situación es causada por la influencia del [[Deshecho]] [[Corazon_de_la_Revelacion]]. La comunicación con el exterior está cortada. Se revela que la ciudad tiene una [[Puerta Jurada]] a [[Urithiru]].
 
 ## Conexiones Relevantes
 * **Relacionado con:** [[Alezkar]], [[Dalinar Kholin]], [[Elhokar Kholin]].

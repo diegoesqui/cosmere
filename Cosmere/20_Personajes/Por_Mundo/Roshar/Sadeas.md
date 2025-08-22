@@ -16,7 +16,7 @@ Sadeas es un portador de esquirlada, con una armadura de color rojo. No posee un
 
 ## Historia
 ### Sucesos en 'El camino de los reyes'
-Sadeas fue uno de los mejores amigos de [[Gavilar Kholin]] y [[Dalinar Kholin]], y luchó junto a ellos para unificar Alezkar. Tras el asesinato de Gavilar, se une a Dalinar en el Pacto de la Venganza contra los [[Parshendi]].
+Sadeas fue uno de los mejores amigos de [[Gavilar Kholin]] y [[Dalinar Kholin]], y luchó junto a ellos para unificar Alezkar. Durante estas guerras, forjó una intensa amistad y rivalidad con Dalinar. Tras el asesinato de Gavilar, se une a Dalinar en el Pacto de la Venganza contra los [[Parshendi]].
 
 En las Llanuras Quebradas, la relación entre Sadeas y Dalinar se deteriora, y los dos se convierten en rivales políticos. Sadeas utiliza tácticas brutales en la guerra, como el uso de las cuadrillas de puentes como cebo para atraer el fuego enemigo. En la batalla de la Torre, traiciona a Dalinar, abandonándolo a él y a su ejército a una muerte segura. Sin embargo, Dalinar sobrevive gracias a la intervención del [[Puente Cuatro]].
 

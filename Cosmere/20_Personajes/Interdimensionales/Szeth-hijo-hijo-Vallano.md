@@ -35,7 +35,7 @@ Szeth continúa su misión de asesinar a los líderes de Roshar, siguiendo las �
 * **Enemigos:** [[Kaladin]].
 
 ### Sucesos en 'Juramentada'
-En "Juramentada", Szeth se entrena como un [[Rompedor del Cielo]] bajo la tutela de [[Nalan]]. Lucha por reconciliar su pasado como el Asesino de Blanco con su nuevo papel como un agente de la justicia. Comienza a vincular a un altospren y a aprender los ideales de su nueva orden. Se le encomienda la tarea de cazar a [[Lift]].
+En "Juramentada", Szeth se entrena como un [[Rompedor del Cielo]] bajo la tutela de [[Nalan]]. Lucha por reconciliar su pasado como el Asesino de Blanco con su nuevo papel como un agente de la justicia. Comienza a vincular a un altospren y a aprender los ideales de su nueva orden. Después de los eventos en las [[Llanuras Quebradas]], [[Dalinar Kholin]] se convierte en su nuevo amo. Szeth jura seguir a Dalinar y su interpretación de la ley. En un interludio, se encuentra en [[Thaylen]] siguiendo las órdenes de Dalinar, protegiéndolo a distancia. Lucha con la naturaleza de su nuevo juramento y la influencia de la espada [[Sangre_Nocturna]], que ahora porta.
 
 ## Apariciones
 * [[El camino de los reyes]]

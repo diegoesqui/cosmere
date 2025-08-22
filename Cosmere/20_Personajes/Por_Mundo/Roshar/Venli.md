@@ -24,7 +24,7 @@ Venli es la hermana de [[Eshonai]] y una de las líderes de los [[Parshendi]]. D
 * **Spren:** [[Ulim]]
 
 ### Sucesos en 'Juramentada'
-En "Juramentada", Venli se encuentra en las [[Llanuras Quebradas]] tras la batalla de Narak. Está en forma de tormenta y es guiada por el vacíospren [[Ulim]]. Se revela que su motivación para buscar la forma de tormenta era el poder y el reconocimiento. Encuentra el cadáver de su hermana [[Eshonai]] y reclama su [[Armadura Esquirlada]] y [[Hoja Esquirlada]].
+En "Juramentada", Venli se encuentra en las [[Llanuras Quebradas]] tras la batalla de Narak. Está en forma de tormenta y es guiada por el vacíospren [[Ulim]]. Se revela que su motivación para buscar la forma de tormenta era el poder y el reconocimiento. Encuentra el cadáver de su hermana [[Eshonai]] y reclama su [[Armadura Esquirlada]] y [[Hoja Esquirlada]]. Más tarde, es llevada a [[Kholinar]] por los [[Los Fusionados|Fusionados]], donde se convierte en su prisionera. Atormentada por la culpa de sus acciones, comienza a cuestionar su lealtad a [[Odium]]. Descubre a un pequeño spren de luz, un [[Voluntadspren]], que ha estado atrapado en su gema corazón, y comienza a formar un vínculo con él, convirtiéndose en una potencial [[Caballero Radiante]] de la orden de los [[Modeladores de Voluntad]].
 
 ## Apariciones
 * [[Palabras radiantes]]

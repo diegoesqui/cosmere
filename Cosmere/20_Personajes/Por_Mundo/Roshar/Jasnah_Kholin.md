@@ -32,6 +32,10 @@ Jasnah es "asesinada" por los [[Sangre Espectral]] al principio del libro, pero 
 * **Pupila:** [[Shallan Davar]].
 * **Spren:** [[Marfil]].
 
+### Sucesos en 'Juramentada'
+Jasnah regresa a las [[Llanuras Quebradas]] durante la [[Batalla_de_la_Explanada_de_Thaylen]]. Tras la muerte de su hermano [[Elhokar Kholin]], asume el título de Reina de [[Alezkar]] y toma el mando de sus ejércitos.
+
 ## Apariciones
 * [[El camino de los reyes]]
 * [[Palabras radiantes]]
+* [[Juramentada (libro)]]

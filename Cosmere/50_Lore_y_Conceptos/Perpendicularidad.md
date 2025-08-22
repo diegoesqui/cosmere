@@ -20,6 +20,7 @@ En el Reino Físico, una Perpendicularidad a menudo se manifiesta como un estanq
 * **[[Roshar]]:**
     *   Los [[Puerta Jurada|Puertos Jurados]] en [[Urithiru]], que conectan con [[Shadesmar]].
     *   El estanque en los picos de las montañas de los Cuernocantores.
+    *   En la Batalla de la Explanada de Thaylen, [[Dalinar Kholin]] une los tres reinos y crea una Perpendicularidad de [[Honor]] de corta duración.
 
 ## Apariciones
 * [[Nacidos de la bruma: Historia Secreta]]

@@ -15,10 +15,19 @@ Un anciano de aspecto afable, con la barba y el pelo blancos. Es un hombre apare
 Taravangian no parece tener ninguna habilidad o poder especial, aunque posee un profundo conocimiento de la política y la naturaleza humana.
 
 ## Historia
-Taravangian es el rey de Kharbranth, una ciudad-estado neutral. En secreto, es el amo de [[Szeth-hijo-hijo-Vallano]], y le ordena asesinar a una serie de personas importantes en todo Roshar, incluyendo a [[Dalinar Kholin]]. Su objetivo es desestabilizar el mundo y prepararlo para la llegada de la [[Auténtica Desolación]].
+Taravangian es el rey de Kharbranth, una ciudad-estado neutral. Es el autor de [[El Diagrama]], un plan para salvar a la humanidad de la [[Auténtica Desolación]]. Su inteligencia y compasión varían enormemente de un día para otro, un efecto de su visita a la [[Vigilante Nocturna]].
+
+### Sucesos en 'Palabras radiantes'
+Taravangian continúa con sus planes, utilizando a [[Szeth-hijo-hijo-Vallano]] para desestabilizar el mundo. Se revela que es el maestro de la conspiración para asesinar a [[Dalinar Kholin]].
+
+### Sucesos en 'Juramentada'
+En "Juramentada", Taravangian se une a la coalición de [[Dalinar Kholin]] en [[Urithiru]], fingiendo ser un aliado. Cuando Dalinar confiesa sus crímenes de guerra, Taravangian aprovecha la oportunidad para destruir la confianza de los otros monarcas en Dalinar, causando que la coalición se fracture. Se revela que ha estado trabajando en secreto con [[Odium]], creyendo que es la única manera de salvar a su pueblo.
 
 ## Conexiones Relevantes
 * **Sirviente:** [[Szeth-hijo-hijo-Vallano]].
+* **Organización:** [[El Diagrama]].
 
 ## Apariciones
 * [[El camino de los reyes]]
+* [[Palabras radiantes (libro)]]
+* [[Juramentada (libro)]]

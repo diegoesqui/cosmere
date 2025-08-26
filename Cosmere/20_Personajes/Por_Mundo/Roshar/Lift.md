@@ -29,6 +29,10 @@ Después de abandonar Azir, Lift viaja a la ciudad de Yeddaw. Allí, persigue a 
 * **Spren:** [[Wyndle]].
 * **Enemigos:** [[Oscuridad]] (aunque su relación se vuelve más compleja).
 
+## Sucesos en 'El Ritmo de la Guerra'
+Lift se encuentra en las Islas Reshi, donde es venerada como una diosa. [[Dalinar Kholin]] envía a [[Szeth]] a buscarla para que se una a los [[Caballeros Radiantes]] en [[Urithiru]]. A pesar de su reticencia a involucrarse en la guerra, acepta regresar con Szeth después de que él le jura lealtad. A su llegada a Urithiru, explora la torre a su manera, mostrando una habilidad única para sentir el dolor de [[El Hermano]]. Se reúne con los demás Radiantes pero continúa evitando el entrenamiento formal, y muestra una profunda compasión por los spren "muertos" que encuentra. Tiene una conversación importante con [[Renarin Kholin]], y ambos conectan por su sensación compartida de ser diferentes a los demás Radiantes. La perspectiva única de Lift le permite ver la verdad del spren corrupto de Renarin, [[Glys]], sin miedo, ofreciéndole un raro momento de aceptación. Durante la caída de [[Urithiru]], Lift juega un papel crucial. Usa sus poderes de Abrasión y Progresión para ayudar a los civiles a escapar y curar a los heridos en medio del caos. Se enfrenta directamente a los invasores Fusionados, demostrando su valía en combate y salvando muchas vidas.
+
 ## Apariciones
 * [[Palabras radiantes]]
 * [[Danzante del Filo]]
+* [[El Ritmo de la Guerra (libro)]]

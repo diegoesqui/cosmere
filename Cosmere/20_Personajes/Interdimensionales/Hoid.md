@@ -12,13 +12,28 @@ Un misterioso personaje que aparece en todo el Cosmere, a menudo bajo diferentes
 En su papel de Sagaz, Hoid es un hombre alto y delgado, con el pelo negro y los ojos azules. Es un hombre ingenioso y sarcástico, con un agudo sentido del humor y una afición por las historias y los acertijos. A menudo parece saber más de lo que revela, y sus motivos son un misterio.
 
 ## Habilidades e Investidura
-Las habilidades de Hoid son en gran parte desconocidas, aunque parece tener algún tipo de poder o conocimiento que le permite viajar entre mundos y aparecer en momentos clave de la historia.
+Las habilidades de Hoid son variadas y misteriosas. Se sabe que es un [[Tejedor de Luz]] o que al menos puede usar sus poderes. También posee [[Alomancia]] y es un [[Despertador]] que utiliza las [[Investidura|Investiduras]] de diferentes mundos. Su memoria se almacena en sus alientos, lo que le da un tono perfecto y una memoria casi perfecta.
 
 ## Historia
-La historia de Hoid es un misterio. Ha estado presente en muchos de los acontecimientos más importantes del Cosmere, y a menudo parece estar trabajando para sus propios fines. En "El camino de los reyes", actúa como el Sagaz del rey [[Elhokar Kholin]], ofreciendo consejos y comentarios mordaces a la corte alezi.
+La historia de Hoid es un misterio. Ha estado presente en muchos de los acontecimientos más importantes del Cosmere, y a menudo parece estar trabajando para sus propios fines.
+
+### Sucesos en 'El camino de los reyes'
+Actúa como el Sagaz del rey [[Elhokar Kholin]], ofreciendo consejos y comentarios mordaces a la corte alezi.
+
+### Sucesos en 'Palabras radiantes'
+Interactúa con [[Shallan Davar]], animándola en su desarrollo como [[Tejedora de Luz]].
+
+### Sucesos en 'Juramentada'
+Se enfrenta a [[Jasnah Kholin]], revelando más sobre sus antiguos orígenes y sus objetivos a largo plazo en el Cosmere.
+
+### Sucesos en 'El Ritmo de la Guerra'
+En el epílogo, Hoid tiene una confrontación directa con el recién ascendido [[Taravangian]]-Odium. En un sorprendente giro, el nuevo y más astuto [[Odium]] logra engañar a Hoid, alterando sus recuerdos (alientos) y eliminando su tono perfecto. Este es un golpe significativo para Hoid, dejándolo vulnerable y con sus recuerdos comprometidos por primera vez.
 
 ## Conexiones Relevantes
-* **Conocidos:** [[Dalinar Kholin]], [[Adolin Kholin]], [[Renarin Kholin]], [[Sadeas]].
+* **Conocidos:** Casi todos los personajes importantes del Cosmere.
 
 ## Apariciones
-* [[El camino de los reyes]]
+* [[El camino de los reyes (libro)]]
+* [[Palabras radiantes (libro)]]
+* [[Juramentada (libro)]]
+* [[El Ritmo de la Guerra (libro)]]

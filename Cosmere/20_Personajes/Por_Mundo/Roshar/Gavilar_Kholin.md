@@ -24,6 +24,10 @@ Gavilar Kholin fue el rey que unificó Alezkar. En una expedición a las [[Llanu
 ### Sucesos en 'Juramentada'
 En el prólogo de "Juramentada", se revela que Gavilar estaba intentando traer de vuelta a los [[Portadores del Vacío]] para unificar Roshar contra una amenaza común. Le entregó a [[Eshonai]] una esfera de luz oscura, una manifestación de [[Odium]], con la esperanza de que los parshendi aceptaran el regreso de sus dioses. Su plan fue la causa directa de su asesinato por parte de los [[Parshendi]], que temían el regreso de sus antiguos dioses.
 
+### Sucesos en 'El Ritmo de la Guerra'
+El prólogo, desde la perspectiva de [[Navani Kholin]], revela más sobre las actividades de Gavilar la noche de su muerte. Se confirma su implicación con los [[Hijos de Honor]] y su investigación sobre la [[Luz del Vacío]]. Estaba en posesión de esferas capaces de contener [[Luz Tormentosa]] de forma permanente y experimentaba con una "anti-Luz del Vacío". Su objetivo final era provocar una nueva Desolación para forzar la unificación de Roshar y ascender a un estado similar al de los [[Heraldos]].
+
 ## Apariciones
 * [[El camino de los reyes]] (mencionado)
 * [[Juramentada (libro)]] (prólogo)
+* [[El Ritmo de la Guerra (libro)]] (prólogo)

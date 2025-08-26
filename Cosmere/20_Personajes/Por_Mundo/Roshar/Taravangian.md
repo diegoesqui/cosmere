@@ -23,6 +23,9 @@ Taravangian continúa con sus planes, utilizando a [[Szeth-hijo-hijo-Vallano]] p
 ### Sucesos en 'Juramentada'
 En "Juramentada", Taravangian se une a la coalición de [[Dalinar Kholin]] en [[Urithiru]], fingiendo ser un aliado. Cuando Dalinar confiesa sus crímenes de guerra, Taravangian aprovecha la oportunidad para destruir la confianza de los otros monarcas en Dalinar, causando que la coalición se fracture. Se revela que ha estado trabajando en secreto con [[Odium]], creyendo que es la única manera de salvar a su pueblo.
 
+### Sucesos en 'El Ritmo de la Guerra'
+Taravangian continúa su doble juego, actuando como un aliado leal de [[Dalinar Kholin]] mientras sigue en secreto las órdenes de [[Odium]]. Su objetivo es manipular la coalición desde dentro y asegurar la victoria de Odium, creyendo que es la única forma de salvar a la humanidad. Viaja a Emul para reunirse con Odium, acompañado por [[Szeth-hijo-hijo-Vallano]], quien tiene la orden de asesinarlo. Antes de que Szeth pueda actuar, Odium (Rayse), debilitado por su conflicto con Dalinar, se enfrenta a Taravangian. En un giro monumental de los acontecimientos, Taravangian utiliza la [[Sangre Nocturna]] que Szeth le entrega para matar a Rayse, el recipiente de Odium. En sus últimos momentos, Rayse se da cuenta de la verdadera naturaleza de Taravangian y del defecto fatal en su propio plan. Taravangian entonces **asciende y se convierte en el nuevo recipiente de la Esquirla de Odium**. Su combinación única de compasión e inteligencia despiadada lo convierte en un Odium mucho más peligroso y aterrador que su predecesor. En el epílogo, su primer acto como nuevo [[Odium]] es enfrentarse a [[Hoid]]. Demuestra su inteligencia superior al encontrar una forma de dañar a Hoid, algo que el anterior Odium no pudo hacer. Altera los recuerdos de Hoid, neutralizándolo como amenaza por el momento y estableciéndose como un antagonista mucho más formidable que Rayse.
+
 ## Conexiones Relevantes
 * **Sirviente:** [[Szeth-hijo-hijo-Vallano]].
 * **Organización:** [[El Diagrama]].
@@ -31,3 +34,4 @@ En "Juramentada", Taravangian se une a la coalición de [[Dalinar Kholin]] en [[
 * [[El camino de los reyes]]
 * [[Palabras radiantes (libro)]]
 * [[Juramentada (libro)]]
+* [[El Ritmo de la Guerra (libro)]]

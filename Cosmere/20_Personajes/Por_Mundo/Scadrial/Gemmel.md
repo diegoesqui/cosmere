@@ -17,4 +17,5 @@ Gemmel entrena a [[Kelsier]] en el uso de los Artes Metálicos para el combate, 
 * **Aprendiz:** [[Kelsier]]
 
 ## Apariciones
+* [[El Imperio Final]] (mencionado)
 * [[El undécimo metal]]

@@ -12,12 +12,15 @@ El undécimo metal es el nombre que se le dio al **malatium**, una aleación de 
 Cuando un Nacido de la Bruma quema malatium, obtiene una visión temporal que le permite ver el pasado de otras personas, o una versión de quiénes podrían haber sido. Muestra una imagen de su "verdadero yo" o de un estado anterior.
 
 ## Historia
-En la historia "El undécimo metal", [[Kelsier]] lo adquiere creyendo que es un arma secreta para derrotar al lord Legislador. Al quemarlo durante su confrontación final, ve una imagen del pasado del lord Legislador como un hombre terrisano, lo que le revela parte de su verdadera naturaleza pero no le proporciona una forma de derrotarlo.
+En "El Imperio Final", [[Kelsier]] difunde la leyenda del Undécimo Metal como un arma secreta para matar al [[Lord Legislador]]. [[Vin]] lo usa durante su confrontación final con él, y ve una imagen del pasado del Lord Legislador como un hombre terrisano, lo que le revela parte de su verdadera naturaleza y le permite descubrir el secreto de su inmortalidad.
+
+En la historia "El undécimo metal", se detalla cómo Kelsier lo adquiere y lo prueba por primera vez.
 
 ## Conexiones Relevantes
 * **Artes relacionados:** [[Alomancia]]
 * **Metales base:** Atium, Oro.
 
 ## Apariciones
+* [[El Imperio Final]]
 * [[El undécimo metal]]
 * Trilogía original de Nacidos de la Bruma

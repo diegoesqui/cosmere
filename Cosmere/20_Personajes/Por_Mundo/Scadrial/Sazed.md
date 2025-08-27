@@ -15,14 +15,24 @@ Es calvo, como es costumbre entre los mayordomos terrisanos. Es un hombre erudit
 Sazed es un [[Feruquimia|Feruquimista]] muy hábil, capaz de usar todos los metales para almacenar una amplia gama de atributos.
 
 ## Historia
+
+### El Imperio Final
+Sazed se une a la banda de [[Kelsier]] bajo la apariencia de ser el mayordomo de [[Lord Renoux]] (un kandra que se hace pasar por un noble). Su vasto conocimiento y su sabiduría lo convierten en un consejero invaluable para el grupo.
+
+Desempeña un papel crucial en la formación de [[Vin]], no en la Alomancia, sino en las costumbres y la etiqueta de la nobleza, permitiéndole infiltrarse con éxito en la corte de Luthadel. A lo largo del libro, revela su naturaleza como Feruquimista y Guardador, explicando la historia y las religiones perdidas del mundo.
+
+Después de que Vin se enfrente al [[Lord Legislador]], Sazed la rescata de Kredik Shaw, usando su feruquimia para luchar contra los Inquisidores y llevarla a un lugar seguro.
+
+### Resto de la Trilogía y "Nacidos de la bruma: Historia Secreta"
 Tras la muerte de [[Vin]] y [[Elend Venture]], Sazed se encuentra en el lugar donde los poderes de [[Conservación]] y [[Ruina]] han sido liberados. Al ser un terrisano (con afinidad tanto por la Ruina como por la Conservación) y comprender ambas intenciones, es capaz de tomar las dos Esquirlas simultáneamente.
 
 Al hacerlo, Asciende y se convierte en una nueva entidad dual conocida como [[Armonía]]. Usa su nuevo poder para reparar el planeta [[Scadrial]], moviendo el sol y restaurando el equilibrio ecológico.
 
 ## Conexiones Relevantes
-* **Amigos:** [[Kelsier]], [[Vin]], [[Elend Venture]]
+* **Amigos:** [[Kelsier]], [[Vin]], [[Elend Venture]], [[Dockson]], [[Ham]], [[Brisa]], [[Clubs]], [[Fantasma]]
 
 ## Apariciones
+* [[El Imperio Final]]
 * Trilogía original de Nacidos de la Bruma
 * [[Nacidos de la bruma: Historia Secreta]]
 * Serie de Wax y Wayne (como Armonía)

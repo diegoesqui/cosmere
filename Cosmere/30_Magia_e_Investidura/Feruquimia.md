@@ -11,12 +11,13 @@ La Feruquimia es uno de los tres principales Artes Metálicos nativos del planet
 ## Mecánicas
 Un Feruquimista pasa un período de tiempo siendo más débil en un atributo particular mientras almacena esa energía en un mentemental. Por ejemplo, puede pasar un día siendo físicamente débil para almacenar fuerza en un brazalete de peltre. Más tarde, puede "aprovechar" el mentemental para recuperar ese atributo a un nivel muy superior al normal durante un corto período de tiempo.
 
-La Feruquimia es un arte "end-neutral": el poder proviene del propio Feruquimista y no se crea ni se destruye, solo se almacena y se recupera. Originalmente, era un arte exclusivo de los terrisanos.
+La Feruquimia es un arte "end-neutral": el poder proviene del propio Feruquimista y no se crea ni se destruye, solo se almacena y se recupera. Originalmente, era un arte exclusivo de los terrisanos, y el [[Lord Legislador]] los persiguió brutalmente para erradicarlo.
 
 ## Conexiones Relevantes
 * **Artes relacionados:** [[Alomancia]], [[Hemalurgia]]
 * **Mundos asociados:** [[Scadrial]]
-* **Usuarios Notables:** [[Sazed]]
+* **Usuarios Notables:** [[Sazed]], [[Lord Legislador]]
 
 ## Apariciones
+* [[El Imperio Final]]
 * Trilogía original de Nacidos de la Bruma

@@ -16,7 +16,7 @@ Como [[Los Fusionados|Fusionada]], posee un inmenso poder y conocimiento de vari
 
 ## Historia
 ### Sucesos en 'El Ritmo de la Guerra'
-Raboniel se encuentra en [[Kholinar]] supervisando las operaciones científicas de los Fusionados. Se le asigna a [[Venli]] como asistente, mostrando un gran interés en la capacidad de Venli para interactuar tanto con la [[Luz del Vacío]] como con un spren Radiante. Su objetivo es estudiar esta interacción para avanzar en su propia investigación sobre la [[Investidura]]. Más tarde, lidera el exitoso asalto a [[Urithiru]]. Usando su profundo conocimiento de la [[Investidura]], logra corromper a [[El Hermano]] y tomar el control de la torre. Tras la captura, toma a [[Navani Kholin]] como prisionera y asistente, forjando una compleja alianza para continuar sus investigaciones.
+Raboniel se encuentra en [[10_Mundos/Roshar/Kholinar|Kholinar]] supervisando las operaciones científicas de los Fusionados. Se le asigna a [[Venli]] como asistente, mostrando un gran interés en la capacidad de Venli para interactuar tanto con la [[Luz del Vacío]] como con un spren Radiante. Su objetivo es estudiar esta interacción para avanzar en su propia investigación sobre la [[Investidura]]. Más tarde, lidera el exitoso asalto a [[10_Mundos/Roshar/Urithiru|Urithiru]]. Usando su profundo conocimiento de la [[Investidura]], logra corromper a [[El Hermano]] y tomar el control de la torre. Tras la captura, toma a [[Navani Kholin]] como prisionera y asistente, forjando una compleja alianza para continuar sus investigaciones.
 
 ## Conexiones Relevantes
 * **Señor:** [[Odium]]

@@ -8,7 +8,7 @@ tags: personaje, Roshar, Kholin
 Gavinor es el hijo del rey [[Elhokar Kholin]] y la reina [[Aesudan]], y el heredero al trono de [[Alezkar]].
 
 ## Sucesos en 'Juramentada'
-En "Juramentada", Gavinor se encuentra en [[Kholinar]] con su madre durante el asedio de los [[Portadores del Vacío]].
+En "Juramentada", Gavinor se encuentra en [[10_Mundos/Roshar/Kholinar|Kholinar]] con su madre durante el asedio de los [[Portadores del Vacío]].
 
 ## Conexiones Relevantes
 * **Padre:** [[Elhokar Kholin]].

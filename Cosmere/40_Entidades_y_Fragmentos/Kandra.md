@@ -6,7 +6,7 @@ alias: []
 # Kandra
 
 ## Descripción General
-Los kandra son una raza de cambiaformas nativos de [[Scadrial]]. Son conocidos por su habilidad para imitar perfectamente la apariencia de cualquier ser cuyos huesos hayan "digerido".
+Los kandra son una raza de cambiaformas nativos de [[10_Mundos/Scadrial/Scadrial|Scadrial]]. Son conocidos por su habilidad para imitar perfectamente la apariencia de cualquier ser cuyos huesos hayan "digerido".
 
 ## Orígenes y Naturaleza
 Los kandra son una forma evolucionada de los [[Espectros de la bruma]], creados por el [[Lord Legislador]] mediante el uso de la [[Hemalurgia]]. Son seres inteligentes y conscientes, y su sociedad se rige por un estricto código de conducta conocido como el Contrato.

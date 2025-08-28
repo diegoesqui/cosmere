@@ -12,7 +12,7 @@ Un miembro leal del [[Puente Cuatro]]. Es un hombre callado y tímido que sufre 
 Dabbid es uno de los miembros originales del [[Puente Cuatro]] bajo el mando de [[Kaladin]]. A pesar de su incapacidad para hablar, es un miembro leal y trabajador del equipo.
 
 ### Sucesos en 'El Ritmo de la Guerra'
-Durante la ocupación de [[Urithiru]] por los Fusionados, Dabbid juega un papel más activo. [[Kaladin]] se toma el tiempo para hablar con él y ayudarlo a procesar su trauma. Con el aliento de Kaladin, Dabbid finalmente comienza a hablar de nuevo, superando el bloqueo mental que lo había silenciado. Se convierte en un ayudante de confianza en la clínica de [[Lirin]].
+Durante la ocupación de [[10_Mundos/Roshar/Urithiru|Urithiru]] por los Fusionados, Dabbid juega un papel más activo. [[Kaladin]] se toma el tiempo para hablar con él y ayudarlo a procesar su trauma. Con el aliento de Kaladin, Dabbid finalmente comienza a hablar de nuevo, superando el bloqueo mental que lo había silenciado. Se convierte en un ayudante de confianza en la clínica de [[Lirin]].
 
 ## Conexiones Relevantes
 * **Líder:** [[Kaladin]]

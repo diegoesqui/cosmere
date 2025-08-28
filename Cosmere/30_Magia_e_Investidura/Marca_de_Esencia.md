@@ -17,7 +17,7 @@ Cada Marca de Esencia debe ser armonizada con un individuo concreto, un proceso 
 * **Magia asociada:** [[Falsificacion]]
 * **Herramienta base:** [[Sello_de_Alma]]
 * **Personajes que lo usan:** [[Shai]]
-* **Mundos asociados:** [[Sel]]
+* **Mundos asociados:** [[10_Mundos/Sel/Sel|Sel]]
 
 ## Apariciones
 * [[El alma del emperador]]

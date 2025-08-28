@@ -26,7 +26,7 @@ Después de que Vin se enfrente al [[Lord Legislador]], Sazed la rescata de Kred
 ### Resto de la Trilogía y "Nacidos de la bruma: Historia Secreta"
 Tras la muerte de [[Vin]] y [[Elend Venture]], Sazed se encuentra en el lugar donde los poderes de [[Conservación]] y [[Ruina]] han sido liberados. Al ser un terrisano (con afinidad tanto por la Ruina como por la Conservación) y comprender ambas intenciones, es capaz de tomar las dos Esquirlas simultáneamente.
 
-Al hacerlo, Asciende y se convierte en una nueva entidad dual conocida como [[Armonía]]. Usa su nuevo poder para reparar el planeta [[Scadrial]], moviendo el sol y restaurando el equilibrio ecológico.
+Al hacerlo, Asciende y se convierte en una nueva entidad dual conocida como [[Armonía]]. Usa su nuevo poder para reparar el planeta [[10_Mundos/Scadrial/Scadrial|Scadrial]], moviendo el sol y restaurando el equilibrio ecológico.
 
 ## Conexiones Relevantes
 * **Amigos:** [[Kelsier]], [[Vin]], [[Elend Venture]], [[Dockson]], [[Ham]], [[Brisa]], [[Clubs]], [[Fantasma]]

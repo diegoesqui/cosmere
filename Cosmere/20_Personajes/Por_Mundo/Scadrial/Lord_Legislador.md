@@ -17,7 +17,7 @@ El Lord Legislador era un Alomante y Feruquimista extremadamente poderoso. Su in
 ## Historia
 Rashek era un porteador terrisano que formó parte de la expedición de Alendi, el Héroe de las Eras, al Pozo de la Ascensión. Creyendo que Alendi destruiría el mundo, Rashek lo asesinó y tomó el poder del Pozo para sí mismo. Usó este poder para derrotar a la [[Profundidad]] y rehacer el mundo, pero también para esclavizar a la humanidad y establecer su tiránico Imperio Final.
 
-Durante mil años, gobernó con mano de hierro desde su fortaleza de [[Kredik Shaw]] en [[Luthadel]]. Fue finalmente derrotado y asesinado por [[Vin]], quien descubrió su secreto y le arrancó sus brazaletes feruquímicos, provocando que envejeciera rápidamente hasta morir.
+Durante mil años, gobernó con mano de hierro desde su fortaleza de [[Kredik Shaw]] en [[10_Mundos/Scadrial/Luthadel|Luthadel]]. Fue finalmente derrotado y asesinado por [[Vin]], quien descubrió su secreto y le arrancó sus brazaletes feruquímicos, provocando que envejeciera rápidamente hasta morir.
 
 ## Conexiones Relevantes
 * **Enemigos:** [[Kelsier]], [[Vin]], la banda de Kelsier

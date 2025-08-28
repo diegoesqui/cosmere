@@ -6,7 +6,7 @@ alias: [Hemalurgy]
 # Hemalurgia
 
 ## Descripción General
-La Hemalurgia es uno de los tres principales Artes Metálicos nativos del planeta [[Scadrial]]. Se le conoce como el Arte de la [[Ruina]]. Es un proceso que permite robar poderes o atributos de una persona y otorgárselos a otra mediante el uso de clavos metálicos. El [[Lord Legislador]] la utilizó para crear a sus sirvientes más poderosos, los [[Inquisidores de Acero]] y los [[Koloss]].
+La Hemalurgia es uno de los tres principales Artes Metálicos nativos del planeta [[10_Mundos/Scadrial/Scadrial|Scadrial]]. Se le conoce como el Arte de la [[Ruina]]. Es un proceso que permite robar poderes o atributos de una persona y otorgárselos a otra mediante el uso de clavos metálicos. El [[Lord Legislador]] la utilizó para crear a sus sirvientes más poderosos, los [[Inquisidores de Acero]] y los [[Koloss]].
 
 ## Mecánicas
 El proceso hemalúrgico es inherentemente violento y destructivo. Implica atravesar el cuerpo de una persona con un pincho de un metal específico, generalmente matándola en el proceso. Este acto "carga" el clavo con una porción del alma o del poder de la víctima (como su [[Alomancia]] o [[Feruquimia]]). 
@@ -18,7 +18,7 @@ Khriss considera que la Hemalurgia es la magia con el mayor impacto potencial en
 ## Conexiones Relevantes
 * **Esquirla asociada:** [[Ruina]]
 * **Artes relacionados:** [[Alomancia]], [[Feruquimia]]
-* **Mundos asociados:** [[Scadrial]]
+* **Mundos asociados:** [[10_Mundos/Scadrial/Scadrial|Scadrial]]
 * **Creaciones Notables:** [[Inquisidores de Acero]], [[Koloss]]
 
 ## Apariciones

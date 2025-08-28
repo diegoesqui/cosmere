@@ -5,22 +5,22 @@ tags: concepto, Roshar
 # Puerta Jurada
 
 ## Descripción General
-Las Puertas Juradas son antiguos portales que conectan [[Urithiru]] con diez ciudades de [[Roshar]].
+Las Puertas Juradas son antiguos portales que conectan [[10_Mundos/Roshar/Urithiru|Urithiru]] con diez ciudades de [[10_Mundos/Roshar/Roshar|Roshar]].
 
 ## Mecánicas
-Una Puerta Jurada se activa al insertar una [[Hoja Esquirlada]] en una ranura en el centro de la plataforma. Una vez activada, la plataforma transporta a los que están sobre ella a [[Urithiru]]. El proceso requiere una gran cantidad de [[Luz Tormentosa]].
+Una Puerta Jurada se activa al insertar una [[Hoja Esquirlada]] en una ranura en el centro de la plataforma. Una vez activada, la plataforma transporta a los que están sobre ella a [[10_Mundos/Roshar/Urithiru|Urithiru]]. El proceso requiere una gran cantidad de [[Luz Tormentosa]].
 
 ## Historia
-En "Palabras radiantes", [[Shallan Davar]] descubre la Puerta Jurada de las [[Llanuras Quebradas]] y la activa, transportando a los ejércitos alezi a [[Urithiru]].
+En "Palabras radiantes", [[Shallan Davar]] descubre la Puerta Jurada de las [[Llanuras Quebradas]] y la activa, transportando a los ejércitos alezi a [[10_Mundos/Roshar/Urithiru|Urithiru]].
 
 ## Conexiones Relevantes
-* **Relacionado con:** [[Urithiru]], [[Caballeros Radiantes]].
+* **Relacionado con:** [[10_Mundos/Roshar/Urithiru|Urithiru]], [[Caballeros Radiantes]].
 
 ### Sucesos en 'Juramentada'
 En "Juramentada", se revela que solo un [[Caballero Radiante]] de pleno derecho puede operar las Puertas Juradas. Se establece que hay diez Puertas Juradas en total, ubicadas en:
-* [[Urithiru]] (el nexo)
+* [[10_Mundos/Roshar/Urithiru|Urithiru]] (el nexo)
 * Las [[Llanuras Quebradas]]
-* [[Kholinar]]
+* [[10_Mundos/Roshar/Kholinar|Kholinar]]
 * [[Vedenar]]
 * [[Ciudad Thaylen]]
 * [[Azimir]]

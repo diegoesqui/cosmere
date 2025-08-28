@@ -19,5 +19,5 @@ En "La esperanza de Elantris", Sarene es la reina de Arelon y está embarazada d
 * **Seon:** [[Ashe]]
 
 ## Apariciones
-* [[Elantris]]
+* [[10_Mundos/Sel/Elantris|Elantris]]
 * [[La esperanza de Elantris]]

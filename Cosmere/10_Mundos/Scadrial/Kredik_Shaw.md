@@ -6,7 +6,7 @@ alias: [Colina de las Mil Torres]
 # Kredik Shaw
 
 ## Resumen
-Kredik Shaw, también conocida como la Colina de las Mil Torres, es la fortaleza y palacio del [[Lord Legislador]] en el corazón de [[Luthadel]].
+Kredik Shaw, también conocida como la Colina de las Mil Torres, es la fortaleza y palacio del [[Lord Legislador]] en el corazón de [[10_Mundos/Scadrial/Luthadel|Luthadel]].
 
 ## Descripción
 Es una estructura masiva y asimétrica, compuesta por numerosas torres y pabellones de diferentes tamaños y formas, que se alzan como lanzas negras hacia el cielo. El palacio es un símbolo del poder y la opresión del Lord Legislador.

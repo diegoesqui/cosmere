@@ -10,7 +10,7 @@ tags: concepto, libro, Roshar
 ## Argumento (Resumen General)
 *Esta sección se irá completando a medida que se analice el libro.*
 
-La trama sigue varios frentes: los [[Caballeros_Radiantes]] continúan su entrenamiento en [[Urithiru]], mientras que [[Kaladin]] se enfrenta a sus traumas de guerra. [[Shallan_Davar]] se infiltra en los [[Sangre_Espectral|Sangre Espectral]] para descubrir sus secretos. [[Navani_Kholin]] se dedica a la investigación de la luz y la fabricación de nuevos fabrialess. Mientras tanto, las fuerzas de [[Odium]] preparan una nueva ofensiva para acabar con la resistencia humana.
+La trama sigue varios frentes: los [[Caballeros_Radiantes]] continúan su entrenamiento en [[10_Mundos/Roshar/Urithiru|Urithiru]], mientras que [[Kaladin]] se enfrenta a sus traumas de guerra. [[Shallan_Davar]] se infiltra en los [[Sangre_Espectral|Sangre Espectral]] para descubrir sus secretos. [[Navani_Kholin]] se dedica a la investigación de la luz y la fabricación de nuevos fabrialess. Mientras tanto, las fuerzas de [[Odium]] preparan una nueva ofensiva para acabar con la resistencia humana.
 
 ## Personajes Principales
 * [[Kaladin]]

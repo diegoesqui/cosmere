@@ -25,7 +25,7 @@ Jasnah Kholin es una de las eruditas más importantes de Roshar, y una veristita
 En Kharbranth, acepta a [[Shallan Davar]] como su pupila, y juntas descubren la verdad sobre los parshmenios y su conexión con los Portadores del Vacío. Al final del libro, las dos viajan a las Llanuras Quebradas para continuar su investigación.
 
 ### Sucesos en 'Palabras radiantes'
-Jasnah es "asesinada" por los [[Sangre Espectral]] al principio del libro, pero se revela al final que sobrevivió escapando a [[Shadesmar]]. Regresa al Reino Físico en [[Urithiru]] al final del libro.
+Jasnah es "asesinada" por los [[Sangre Espectral]] al principio del libro, pero se revela al final que sobrevivió escapando a [[10_Mundos/Shadesmar/Shadesmar|Shadesmar]]. Regresa al Reino Físico en [[10_Mundos/Roshar/Urithiru|Urithiru]] al final del libro.
 
 ## Conexiones Relevantes
 * **Familia:** [[Gavilar Kholin]] (padre, fallecido), [[Elhokar Kholin]] (hermano), [[Dalinar Kholin]] (tío), [[Adolin Kholin]] (primo), [[Renarin Kholin]] (primo), [[Navani Kholin]] (madre).

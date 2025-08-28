@@ -1,54 +1,42 @@
 ---
-tags: concepto, magia, Scadrial
-alias: [Allomancy]
+tags: concepto, magia, scadrial
 ---
 
 # Alomancia
 
 ## Descripción General
-La Alomancia es uno de los tres principales Artes Metálicos nativos del planeta [[Scadrial]]. Se le conoce como el Arte de la [[Conservación]]. Los usuarios de la Alomancia, llamados **Alomantes**, son capaces de "quemar" metales que han ingerido para obtener poderes sobrenaturales. La habilidad es hereditaria y se manifiesta principalmente en las líneas de sangre de la nobleza del [[Imperio Final]].
+La Alomancia es un sistema de magia endémico del mundo de [[10_Mundos/Scadrial/Scadrial|Scadrial]]. Los usuarios, conocidos como [[Alomante|Alománticos]], son capaces de "quemar" metales que han ingerido para obtener poderes sobrenaturales. La habilidad es hereditaria y se manifiesta con más fuerza en los linajes nobles.
+
+Existen dos tipos de alománticos:
+*   **[[Nacido de la Bruma|Nacidos de la Bruma]]:** Pueden quemar todos los metales alománticos.
+*   **[[Brumoso|Brumosos]]:** Solo pueden quemar un metal específico.
 
 ## Mecánicas
-La Alomancia funciona cuando un Alomante ingiere un metal específico y luego "lo quema" con su voluntad, consumiendo el metal y liberando [[Investidura]] para producir un efecto mágico. Cada metal alomántico otorga un poder diferente.
+La Alomancia se divide en ocho metales básicos, agrupados en pares de un metal y su aleación. Cada metal otorga un poder específico. Los poderes se clasifican como de "empuje" (pushing) o "tirón" (pulling), y como "internos" (afectan al alomántico) o "externos" (afectan al entorno).
 
-Existen dos tipos principales de Alomantes:
-*   **Brumosos (Misting):** Alomantes que solo pueden quemar un tipo de metal.
-*   **Nacidos de la Bruma (Mistborn):** Alomantes que pueden quemar todos los metales alománticos.
+*   **Metales Físicos:**
+    *   **Hierro (Tirón Externo):** Permite tirar de metales cercanos.
+    *   **Acero (Empuje Externo):** Permite empujar metales cercanos. Es la base de los saltos alománticos.
+    *   **Estaño (Tirón Interno):** Agudiza todos los sentidos.
+    *   **Peltre (Empuje Interno):** Aumenta las habilidades físicas: fuerza, velocidad, equilibrio y resistencia al dolor y la fatiga.
+*   **Metales Mentales:**
+    *   **Zinc (Tirón Externo):** Enciende o aviva las emociones de otros.
+    *   **Latón (Empuje Externo):** Aplaca o amortigua las emociones de otros.
+    *   **Cobre (Tirón Interno):** Oculta los pulsos alománticos propios y de quienes están cerca, haciéndolos indetectables para un [[Buscador]].
+    *   **Bronce (Empuje Interno):** Permite oír los pulsos alománticos de otros, detectando su uso.
 
-La Alomancia es un arte "end-positive", lo que significa que el metal no es la fuente del poder, sino una clave que permite al Alomante extraer poder directamente de [[Conservación]].
+### Metales Superiores
+Existen metales de poder superior, como el [[Atium]] y el [[Oro]].
 
-### Los Metales Alománticos
-En "El Imperio Final" se presentan los siguientes metales:
+*   **[[Atium]]:** Permite ver unos segundos en el futuro de otra persona, mostrando una "sombra de atium" de sus próximas acciones, lo que vuelve al usuario casi invencible en combate.
+*   **[[Oro]]:** Permite ver una versión pasada de uno mismo, una visión de quién podrías haber sido.
 
-**Metales Físicos:**
-*   **Hierro:** Tira de metales cercanos.
-*   **Acero:** Empuja metales cercanos.
-*   **Estaño:** Amplía los sentidos.
-*   **Peltre:** Amplía las habilidades físicas.
+### Sucesos en 'El Imperio Final'
+Se introduce la leyenda del [[El undecimo metal|Undécimo Metal]], un metal mítico que supuestamente tiene el poder de derrotar al [[Lord Legislador]]. [[Kelsier]] lo busca y [[Vin]] intenta usarlo en su confrontación final. Se revela que el [[Lord Legislador]] combina la Alomancia con la [[Feruquimia]] para lograr la inmortalidad.
 
-**Metales Mentales:**
-*   **Cinc:** Aplaca (suprime) las emociones.
-*   **Latón:** Enciende (inflama) las emociones.
-*   **Cobre:** Oculta los pulsos alománticos.
-*   **Bronce:** Permite oír los pulsos alománticos.
-
-**Metales Superiores:**
-*   **[[Atium]]:** Permite ver el futuro inmediato de otras personas.
-*   **[[El undécimo metal]]:** Un metal misterioso que, al ser quemado, permite ver el pasado de otras personas.
-
-## Alomantes Notables
-*   [[Lord Legislador]]
-*   [[Kelsier]]
-*   [[Vin]]
+## Relación con la Investidura
+La habilidad para usar la Alomancia es hereditaria y proviene de la [[Investidura]] de [[Conservación]].
 
 ## Conexiones Relevantes
-* **Esquirla asociada:** [[Conservación]]
-* **Artes relacionados:** [[Feruquimia]], [[Hemalurgia]]
-* **Mundos asociados:** [[Scadrial]]
-
-## Apariciones
-* [[El Imperio Final]]
-* Trilogía original de Nacidos de la Bruma
-* [[El undécimo metal]]
-* [[Nacidos de la bruma: Historia Secreta]]
-* Serie de Wax y Wayne
+* **Personajes que lo usan:** [[Vin]], [[Kelsier]], [[Lord Legislador]], [[Elend Venture]] (indirectamente), [[Ham]] (Peltre), [[Brisa]] (Latón), [[Clubs]] (Cobre), [[Marsh]] (Bronce)
+* **Mundos asociados:** [[10_Mundos/Scadrial/Scadrial|Scadrial]]

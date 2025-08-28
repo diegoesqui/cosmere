@@ -11,26 +11,17 @@
             "id": "bf849c8e07e2de46",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f4ac062f2bef9d07",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Cosmere/50_Lore_y_Conceptos/Mision_a_Kholinar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Mision_a_Kholinar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,18 +169,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4ac062f2bef9d07",
+  "active": "bf849c8e07e2de46",
   "lastOpenFiles": [
-    "Cosmere/10_Mundos/Scadrial.md",
-    "Cosmere/10_Mundos/Sel.md",
-    "Cosmere/10_Mundos/Llanuras_Quebradas.md",
-    "Cosmere/10_Mundos/Elantris.md",
-    "Cosmere/30_Magia_e_Investidura/AonDor.md",
-    "Cosmere/30_Magia_e_Investidura/Shaod.md",
-    "Cosmere/20_Personajes/Por_Mundo/Roshar/Ym.md",
-    "Cosmere/20_Personajes/Interdimensionales/Iyatil.md",
+    "Kharbranth.md",
+    "Cosmere/10_Mundos/Roshar/Roshar.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Sigzil.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Sadeas.md",
+    "Cosmere/10_Mundos/Shadesmar/Celebrant.md",
+    "Cosmere/10_Mundos/Shadesmar/Shadesmar.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Ialai_Sadeas.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Lift.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Evi.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Eshonai.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Gavilar_Kholin.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/El_Inquisidor.md",
+    "Cosmere/20_Personajes/Interdimensionales/Hoid.md",
+    "Cosmere/10_Mundos/Scadrial/Scadrial.md",
     "Cosmere/10_Mundos/Yolen.md",
-    "Cosmere/10_Mundos/Shadesmar.md",
-    "Cosmere/10_Mundos/Sedetormenta.md"
+    "Cosmere/10_Mundos/Roshar/Urithiru.md",
+    "Cosmere/10_Mundos/Treno.md",
+    "Cosmere/10_Mundos/Taldain.md",
+    "Cosmere/10_Mundos/Roshar/Thaylen.md",
+    "Cosmere/10_Mundos/Roshar/Takah.md",
+    "Cosmere/10_Mundos/Sel/Sel.md",
+    "Cosmere/10_Mundos/Roshar/Sedetormenta.md",
+    "Cosmere/10_Mundos/Roshar/Rathalas.md",
+    "Cosmere/10_Mundos/Primero_del_Sol.md",
+    "Cosmere/10_Mundos/Scadrial/Luthadel.md",
+    "Cosmere/10_Mundos/Roshar/Azir.md",
+    "Cosmere/10_Mundos/Shadesmar",
+    "Cosmere/10_Mundos/Sel",
+    "Cosmere/10_Mundos/Scadrial",
+    "Cosmere/10_Mundos/Roshar"
   ]
 }

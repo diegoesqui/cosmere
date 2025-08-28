@@ -5,7 +5,7 @@ tags: concepto, magia, Roshar
 # Potenciación
 
 ## Descripción General
-La Potenciación es el sistema de magia de [[Roshar]], utilizado por los [[Caballeros Radiantes]]. Se basa en la manipulación de diez fuerzas fundamentales, conocidas como las Potencias.
+La Potenciación es el sistema de magia de [[10_Mundos/Roshar/Roshar|Roshar]], utilizado por los [[Caballeros Radiantes]]. Se basa en la manipulación de diez fuerzas fundamentales, conocidas como las Potencias.
 
 ## Mecánicas
 Cada orden de los [[Caballeros Radiantes]] tiene acceso a dos de las diez Potencias. Para utilizar la Potenciación, un individuo debe formar un lazo nahel con un [[spren]]. La [[Luz Tormentosa]] se utiliza como combustible para potenciar las habilidades.

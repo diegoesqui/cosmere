@@ -1,40 +1,32 @@
 ---
-tags: personaje, Scadrial
-alias: [la Heredera del Superviviente, Valette Renoux]
+tags: personaje, scadrial
+alias: [Valette Renoux]
 ---
 
 # Vin
 
 ## Resumen
-Vin fue una Nacida de la Bruma de sangre mestiza que pasó su infancia como una ladrona callejera skaa en Luthadel. Fue reclutada por la banda de [[Kelsier]] y, bajo su tutela, se convirtió en una de las Alomantes más poderosas de la historia. Jugó un papel fundamental en la caída del Imperio Final, asesinando al [[Lord Legislador]], y en el posterior conflicto con la Esquirla [[Ruina]].
+Una joven [[Skaa]] de la calle, desconfiada y maltratada, que descubre que es una [[Nacido de la Bruma|Nacida de la Bruma]] y se convierte en la protegida de [[Kelsier]]. Juega un papel crucial en el plan para derrocar al [[Imperio Final]] y finalmente derrota al [[Lord Legislador]].
 
 ## Apariencia y Personalidad
-Es una mujer menuda y delgada, con cabello oscuro. Debido a una infancia de abusos y traumas a manos de su hermano [[Reen]], inicialmente era extremadamente desconfiada y cautelosa. A lo largo de su historia, evoluciona hasta convertirse en una mujer fuerte, decidida y compasiva, aunque siempre luchando con sus inseguridades y su lugar en el mundo.
+Pequeña, delgada y de pelo oscuro. Inicialmente es extremadamente desconfiada y está acostumbrada a pasar desapercibida, una lección aprendida de su abusivo hermanastro, [[Reen]]. A medida que gana confianza con la banda de [[Kelsier]], demuestra ser valiente, decidida y sorprendentemente hábil tanto en la [[Alomancia]] como en la infiltración en la nobleza bajo el alias de Lady Valette Renoux.
 
 ## Habilidades e Investidura
-Vin es una Nacida de la Bruma excepcionalmente poderosa. Demostró un talento natural para la [[Alomancia]] y desarrolló una conexión inusualmente fuerte con las brumas, que eran una manifestación del poder de [[Conservacion]]. En "El Imperio Final", descubre su habilidad única para perforar las nubes de cobre de otros Alomantes.
+Una [[Nacido de la Bruma]] con un talento natural excepcional. Demuestra una afinidad particular con las brumas y una habilidad única para perforar las nubes de [[Cobre]] de otros alománticos. Aprende rápidamente y se convierte en una luchadora formidable, capaz de enfrentarse a [[Inquisidores de Acero]] y derrotar a otros [[Nacido de la Bruma|Nacidos de la Bruma]] más experimentados.
 
 ## Historia
+Creció en los bajos fondos de [[10_Mundos/Scadrial/Luthadel|Luthadel]] con su hermanastro, [[Reen]]. Formaba parte de la banda de [[Camon]], donde usaba su "Suerte" (una forma instintiva de [[Alomancia]] emocional) para ayudar en los timos.
 
-### El Imperio Final
-Al inicio de la novela, Vin es una joven ladrona en la banda de [[Camon]]. Su vida cambia cuando [[Kelsier]] la descubre y la recluta para su plan de derrocar al Imperio Final. Kelsier se convierte en su mentor, enseñándole a dominar sus poderes de Nacida de la Bruma y, lo más importante, a confiar en los demás.
+Fue descubierta por [[Kelsier]], quien la reclutó en su banda y le enseñó que era una [[Nacido de la Bruma]]. Se infiltró en la nobleza de [[10_Mundos/Scadrial/Luthadel|Luthadel]] bajo la identidad de Lady Valette Renoux, sobrina del falso [[Lord Renoux]], para espiar a las Grandes Casas.
 
-Vin adopta la identidad de **Lady Valette Renoux** para infiltrarse en la nobleza de Luthadel. Durante sus misiones en los bailes de la corte, conoce y se enamora de [[Elend Venture]], el heredero de la casa más poderosa de Luthadel.
+Durante sus misiones, desarrolló una relación romántica con el heredero idealista, [[Elend Venture]].
 
-Su papel en la rebelión es crucial. Participa en varias misiones de sabotaje y espionaje, y se enfrenta a varios [[Inquisidores de Acero]]. En el clímax del libro, después de la muerte de Kelsier, se infiltra en Kredik Shaw, la fortaleza del Lord Legislador, y lo derrota usando su ingenio y su recién descubierta habilidad para manipular los metales dentro del cuerpo del Lord Legislador, aprovechando su naturaleza de feruquimista.
-
-### Resto de la Trilogía y "Nacidos de la bruma: Historia Secreta"
-Tras ser entrenada por [[Kelsier]], Vin fue instrumental en el asesinato del lord Legislador. Posteriormente, se enfrentó a la amenaza de [[Ruina]]. En el clímax del conflicto, absorbió el poder de las brumas y ascendió brevemente como el nuevo Recipiente de [[Conservacion]]. Finalmente, se sacrificó junto con [[Elend Venture]] para derrotar a Ruina, permitiendo que [[Sazed]] tomara ambas Esquirlas y se convirtiera en [[Armonía]].
-
-En "Nacidos de la bruma: Historia Secreta", se revela que [[Kelsier]] la observó y trató de guiarla desde el [[Reino Cognitivo]] después de su propia muerte.
+Tras la muerte de [[Kelsier]], se sintió perdida, pero finalmente asumió su papel y se enfrentó al [[Lord Legislador]]. Usando el [[Undécimo metal]] y descubriendo su secreto feruquímico, logró matarlo y liberar a los [[Skaa]].
 
 ## Conexiones Relevantes
-* **Mentor:** [[Kelsier]]
-* **Esposo:** [[Elend Venture]]
-* **Hermano:** Reen
-* **Amigos:** [[Sazed]], [[Dockson]], [[Ham]], [[Brisa]], [[Clubs]], [[Fantasma]]
+* **Aliados:** [[Kelsier]], [[Elend Venture]], [[Sazed]], [[Dockson]], [[Ham]], [[Brisa]]
+* **Enemigos:** [[Lord Legislador]], [[Inquisidores de Acero]], [[Shan Elariel]], [[Camon]]
+* **Familia:** [[Reen]] (hermanastro, fallecido), [[Sumo Prelado Tevidian]] (padre, fallecido), una madre (fallecida) y una hermana pequeña (fallecida).
 
 ## Apariciones
-* [[El Imperio Final]]
-* Trilogía original de Nacidos de la Bruma
-* [[Nacidos de la bruma: Historia Secreta]]
+* [[El imperio final (libro)]]

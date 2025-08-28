@@ -6,7 +6,7 @@ alias: [Wan ShaiLu, la Falsificadora]
 # Shai
 
 ## Resumen
-Shai, también conocida como Wan ShaiLu, es una [[Falsificacion|Falsificadora]] legendaria del pueblo MaiPon en [[Sel]]. Es contratada bajo coacción por los árbitros del Imperio Rosa para la tarea aparentemente imposible de recrear el alma del emperador [[Ashravan]], que ha quedado en estado vegetativo tras un intento de asesinato.
+Shai, también conocida como Wan ShaiLu, es una [[Falsificacion|Falsificadora]] legendaria del pueblo MaiPon en [[10_Mundos/Sel/Sel|Sel]]. Es contratada bajo coacción por los árbitros del Imperio Rosa para la tarea aparentemente imposible de recrear el alma del emperador [[Ashravan]], que ha quedado en estado vegetativo tras un intento de asesinato.
 
 ## Apariencia y Personalidad
 Es una mujer de baja estatura con cabello lacio y largo. Shai es extremadamente inteligente, ingeniosa y orgullosa de su arte. A menudo cita las enseñanzas de su "tío Won", como la importancia de tener siempre un plan de reserva. A pesar de su oficio de ladrona, posee un profundo sentido artístico y ético sobre su trabajo.

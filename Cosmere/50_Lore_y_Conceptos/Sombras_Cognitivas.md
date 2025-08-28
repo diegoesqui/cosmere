@@ -15,8 +15,8 @@ Si una Sombra Cognitiva puede encontrar una fuente de Investidura lo suficientem
 
 ## Ejemplos Notables
 * **[[Treno]]:** Los muertos a veces persisten como "umbras", unas Sombras Cognitivas que se sienten atraídas por la sangre, el fuego y los movimientos bruscos.
-* **[[Scadrial]]:** [[Kelsier]] se convierte en una Sombra Cognitiva tras su muerte, anclándose al [[Pozo de la Ascensión]].
-* **[[Roshar]]:** Los [[Heraldos]] son Sombras Cognitivas atadas al Juramento.
+* **[[10_Mundos/Scadrial/Scadrial|Scadrial]]:** [[Kelsier]] se convierte en una Sombra Cognitiva tras su muerte, anclándose al [[Pozo de la Ascensión]].
+* **[[10_Mundos/Roshar/Roshar|Roshar]]:** Los [[Heraldos]] son Sombras Cognitivas atadas al Juramento.
 
 ## Apariciones
 * [[Arcanum Ilimitado]]

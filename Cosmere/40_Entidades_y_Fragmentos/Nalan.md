@@ -16,7 +16,7 @@ Como Heraldo, Nalan es inmortal y posee una [[Hoja de Honor]]. También es un [[
 
 ## Historia
 ### Sucesos en 'Palabras radiantes'
-Nalan, bajo el alias de Oscuridad, aparece en los interludios, cazando y matando a los nuevos potenciadores que surgen en [[Roshar]]. Al final del libro, revive a [[Szeth-hijo-hijo-Vallano]] y lo recluta para los [[Rompedores del Cielo]].
+Nalan, bajo el alias de Oscuridad, aparece en los interludios, cazando y matando a los nuevos potenciadores que surgen en [[10_Mundos/Roshar/Roshar|Roshar]]. Al final del libro, revive a [[Szeth-hijo-hijo-Vallano]] y lo recluta para los [[Rompedores del Cielo]].
 
 ### Sucesos en 'Danzante del Filo'
 Nalan continúa su misión de ejecutar a los nuevos Radiantes en la ciudad de Yeddaw. Persigue a una [[Danzantes del Filo|Danzante del Filo]] conocida como "la Tocón". Se enfrenta a [[Lift]], a quien ya había intentado matar en Azir. Durante su duelo en medio de la [[Tormenta Eterna]], Lift usa su nuevo juramento para "escuchar" el dolor de Nalan, forzándolo a confrontar la realidad de que las Desolaciones han regresado y que su cruzada de siglos ha sido en vano. Esto le provoca una crisis mental y huye.

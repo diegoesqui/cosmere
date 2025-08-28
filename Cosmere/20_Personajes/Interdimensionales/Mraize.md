@@ -6,7 +6,7 @@ alias: []
 # Mraize
 
 ## Resumen
-Un misterioso y peligroso miembro de los [[Sangre Espectral]]. Es el encargado de las operaciones del grupo en [[Roshar]].
+Un misterioso y peligroso miembro de los [[Sangre Espectral]]. Es el encargado de las operaciones del grupo en [[10_Mundos/Roshar/Roshar|Roshar]].
 
 ## Apariencia y Personalidad
 Un hombre alto y de rostro marcado por cicatrices, con ojos violeta claro. Es un hombre frío y calculador, que habla con un acento extraño. Es un maestro de la manipulación y la intriga, y no duda en utilizar la violencia para alcanzar sus objetivos.

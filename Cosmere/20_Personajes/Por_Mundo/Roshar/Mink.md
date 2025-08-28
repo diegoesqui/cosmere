@@ -16,7 +16,7 @@ El Mink es un [[Portador de Esquirlada]] completo.
 
 ## Historia
 ### Sucesos en 'El Ritmo de la Guerra'
-El Mink viaja a [[Urithiru]] para reunirse con [[Dalinar Kholin]] y discutir la posibilidad de que los Comecuernos se unan a la coalición contra [[Odium]]. Revela que los Picos Comecuernos están en un estado de agitación política, con varias facciones compitiendo por el poder.
+El Mink viaja a [[10_Mundos/Roshar/Urithiru|Urithiru]] para reunirse con [[Dalinar Kholin]] y discutir la posibilidad de que los Comecuernos se unan a la coalición contra [[Odium]]. Revela que los Picos Comecuernos están en un estado de agitación política, con varias facciones compitiendo por el poder.
 
 ## Conexiones Relevantes
 * **Aliados:** [[Dalinar Kholin]].

@@ -5,7 +5,7 @@ tags: concepto, Roshar
 # Tormenta Eterna
 
 ## Descripción General
-La Tormenta Eterna es una nueva tormenta que asola [[Roshar]], soplando en la dirección opuesta a las altas tormentas. Es la tormenta de los [[Portadores del Vacío]].
+La Tormenta Eterna es una nueva tormenta que asola [[10_Mundos/Roshar/Roshar|Roshar]], soplando en la dirección opuesta a las altas tormentas. Es la tormenta de los [[Portadores del Vacío]].
 
 ## Mecánicas
 La Tormenta Eterna tiene la capacidad de transformar a los [[Parshmenios]] en [[Portadores del Vacío]]. También parece ser una fuente de [[Investidura]] para los [[Parshendi]] en su forma de tormenta.

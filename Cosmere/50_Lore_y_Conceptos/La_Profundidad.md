@@ -6,7 +6,7 @@ alias: [the Deepness]
 # La Profundidad
 
 ## Descripción General
-La Profundidad es una fuerza o entidad misteriosa que amenazó al mundo de [[Scadrial]] antes de la Ascensión del [[Lord Legislador]].
+La Profundidad es una fuerza o entidad misteriosa que amenazó al mundo de [[10_Mundos/Scadrial/Scadrial|Scadrial]] antes de la Ascensión del [[Lord Legislador]].
 
 ## Historia
 Según las leyendas y el diario del Lord Legislador, la Profundidad era una fuerza corruptora que arrasaba la tierra, destruyendo cosechas y extendiendo una plaga. El [[Héroe de las Eras]] estaba destinado a derrotarla en el [[Pozo de la Ascensión]].

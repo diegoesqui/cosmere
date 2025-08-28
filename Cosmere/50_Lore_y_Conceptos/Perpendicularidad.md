@@ -14,11 +14,11 @@ Generalmente, las Perpendicularidades son creadas por la inmensa concentración 
 En el Reino Físico, una Perpendicularidad a menudo se manifiesta como un estanque o pozo de Investidura líquida y pura.
 
 ## Ejemplos Notables
-* **[[Scadrial]]:**
+* **[[10_Mundos/Scadrial/Scadrial|Scadrial]]:**
     *   El [[Pozo de la Ascensión]] (Perpendicularidad de [[Conservación]]).
     *   Los Pozos de Hathsin, la fuente del [[atium]] (Perpendicularidad de [[Ruina]]).
-* **[[Roshar]]:**
-    *   Los [[Puerta Jurada|Puertos Jurados]] en [[Urithiru]], que conectan con [[Shadesmar]].
+* **[[10_Mundos/Roshar/Roshar|Roshar]]:**
+    *   Los [[Puerta Jurada|Puertos Jurados]] en [[10_Mundos/Roshar/Urithiru|Urithiru]], que conectan con [[10_Mundos/Shadesmar/Shadesmar|Shadesmar]].
     *   El estanque en los picos de las montañas de los Cuernocantores.
     *   En la Batalla de la Explanada de Thaylen, [[Dalinar Kholin]] une los tres reinos y crea una Perpendicularidad de [[Honor]] de corta duración.
 

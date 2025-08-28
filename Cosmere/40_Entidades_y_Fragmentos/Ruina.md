@@ -6,7 +6,7 @@ alias: [Ati]
 # Ruina
 
 ## Descripción General
-Ruina es una de las dieciséis [[Esquirlas de Adonalsium]]. Su intención o mandato es la entropía, la decadencia y la destrucción final de todas las cosas. Junto con [[Conservación]], creó el planeta de [[Scadrial]].
+Ruina es una de las dieciséis [[Esquirlas de Adonalsium]]. Su intención o mandato es la entropía, la decadencia y la destrucción final de todas las cosas. Junto con [[Conservación]], creó el planeta de [[10_Mundos/Scadrial/Scadrial|Scadrial]].
 
 ## Recipiente
 El Recipiente original de la Esquirla de Ruina era un hombre bondadoso y generoso llamado Ati. Con el tiempo, el poder de la Esquirla corrompió su personalidad.
@@ -18,7 +18,7 @@ El conflicto entre Ruina y [[Conservación]] es la fuerza central que da forma a
 
 ## Conexiones Relevantes
 * **Esquirla opuesta:** [[Conservación]]
-* **Mundos asociados:** [[Scadrial]]
+* **Mundos asociados:** [[10_Mundos/Scadrial/Scadrial|Scadrial]]
 * **Arte Metálico asociado:** [[Hemalurgia]]
 
 ## Apariciones

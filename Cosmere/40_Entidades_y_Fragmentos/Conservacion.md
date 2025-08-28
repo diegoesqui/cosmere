@@ -6,7 +6,7 @@ alias: [Leras, Borrón]
 # Conservación
 
 ## Descripción General
-Conservación es una de las dieciséis [[Esquirlas de Adonalsium]]. Su intención o mandato es preservar y mantener las cosas estáticas e inmutables. Junto con [[Ruina]], creó el planeta de [[Scadrial]].
+Conservación es una de las dieciséis [[Esquirlas de Adonalsium]]. Su intención o mandato es preservar y mantener las cosas estáticas e inmutables. Junto con [[Ruina]], creó el planeta de [[10_Mundos/Scadrial/Scadrial|Scadrial]].
 
 ## Recipiente
 El Recipiente original de la Esquirla de Conservación era un hombre llamado Leras.
@@ -18,7 +18,7 @@ En "Nacidos de la bruma: Historia Secreta", el espíritu de Leras, muy debilitad
 
 ## Conexiones Relevantes
 * **Esquirla opuesta:** [[Ruina]]
-* **Mundos asociados:** [[Scadrial]]
+* **Mundos asociados:** [[10_Mundos/Scadrial/Scadrial|Scadrial]]
 * **Artes Metálicos asociados:** [[Alomancia]], [[Feruquimia]]
 
 ## Apariciones

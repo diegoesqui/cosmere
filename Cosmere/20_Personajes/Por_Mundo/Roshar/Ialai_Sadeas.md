@@ -12,7 +12,7 @@ La viuda del Alto Príncipe [[Sadeas]]. Es una mujer astuta y despiadada, una ma
 Tras el asesinato de su marido a manos de [[Adolin Kholin]], Ialai se convierte en una enemiga acérrima de la casa Kholin, utilizando su considerable influencia y su red de espías para socavar sus esfuerzos.
 
 ### Sucesos en 'El Ritmo de la Guerra'
-Se revela que Ialai se ha unido a los [[Sangre Espectral]]. Opera en [[Shadesmar]] bajo las órdenes de [[Mraize]]. Es enviada a perseguir al grupo de [[Shallan Davar]] pero es superada y derrotada por Shallan, quien la deja varada en [[Shadesmar]].
+Se revela que Ialai se ha unido a los [[Sangre Espectral]]. Opera en [[10_Mundos/Shadesmar/Shadesmar|Shadesmar]] bajo las órdenes de [[Mraize]]. Es enviada a perseguir al grupo de [[Shallan Davar]] pero es superada y derrotada por Shallan, quien la deja varada en [[10_Mundos/Shadesmar/Shadesmar|Shadesmar]].
 
 ## Conexiones Relevantes
 * **Esposo:** [[Sadeas]] (fallecido)

@@ -8,8 +8,8 @@ tags: concepto
 El Cosmere es el universo en el que se desarrollan la mayoría de las novelas de Brandon Sanderson. Es un universo de fantasía épica, con una historia y una cosmología complejas.
 
 ## Mundos Conocidos
-* [[Roshar]]
-* [[Scadrial]]
+* [[10_Mundos/Roshar/Roshar|Roshar]]
+* [[10_Mundos/Scadrial/Scadrial|Scadrial]]
 * [[Nalthis]]
 
 ## Conceptos Clave
@@ -17,4 +17,4 @@ El Cosmere es el universo en el que se desarrollan la mayoría de las novelas de
 * [[Adonalsium]]
 * [[Esquirlas de Adonalsium]]
 * [[Realmatica]]
-* [[Shadesmar]]
+* [[10_Mundos/Shadesmar/Shadesmar|Shadesmar]]

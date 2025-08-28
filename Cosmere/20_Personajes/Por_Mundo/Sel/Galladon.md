@@ -6,7 +6,7 @@ alias: [Gallo]
 # Galladon
 
 ## Resumen
-Galladon es un príncipe de Duladel que fue afectado por la [[Shaod]] y exiliado a [[Elantris]]. Allí, se convirtió en el mejor amigo y uno de los más fieles consejeros de [[Raoden]].
+Galladon es un príncipe de Duladel que fue afectado por la [[Shaod]] y exiliado a [[10_Mundos/Sel/Elantris|Elantris]]. Allí, se convirtió en el mejor amigo y uno de los más fieles consejeros de [[Raoden]].
 
 ## Apariencia y Personalidad
 Es un Dula, caracterizado por su piel oscura. Su rasgo más distintivo es su pesimismo y su actitud cínica, que a menudo expresa con su interjección característica, "¿Kolo?". A pesar de su pesimismo, es un amigo leal y valiente que siempre está al lado de [[Raoden]].
@@ -18,5 +18,5 @@ En "La esperanza de Elantris", Galladon es uno de los líderes de Nueva Elantris
 * **Amigos:** [[Raoden]], [[Karata]]
 
 ## Apariciones
-* [[Elantris]]
+* [[10_Mundos/Sel/Elantris|Elantris]]
 * [[La esperanza de Elantris]]

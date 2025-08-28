@@ -13,7 +13,7 @@ El Perseguidor posee una velocidad y una capacidad de regeneración inmensas, qu
 
 ## Historia
 ### Sucesos en 'El Ritmo de la Guerra'
-Durante el asalto a [[Urithiru]], el Perseguidor es asignado para cazar y matar a [[Kaladin]]. Se convierte en un antagonista implacable, persiguiendo a Kaladin sin descanso por toda la torre y llevando al [[Corredor del Viento]] a sus límites físicos y mentales.
+Durante el asalto a [[10_Mundos/Roshar/Urithiru|Urithiru]], el Perseguidor es asignado para cazar y matar a [[Kaladin]]. Se convierte en un antagonista implacable, persiguiendo a Kaladin sin descanso por toda la torre y llevando al [[Corredor del Viento]] a sus límites físicos y mentales.
 
 ## Conexiones Relevantes
 * **Señor:** [[Odium]]

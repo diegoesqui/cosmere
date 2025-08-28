@@ -6,7 +6,7 @@ alias: [Well of Ascension]
 # Pozo de la Ascensión
 
 ## Descripción General
-El Pozo de la Ascensión es la [[Perpendicularidad]] de la Esquirla [[Conservación]] en el planeta [[Scadrial]]. Se manifiesta en el Reino Físico como un estanque de [[Investidura]] líquida y brillante, ubicado en una caverna bajo la ciudad de Luthadel, dentro de Kredik Shaw.
+El Pozo de la Ascensión es la [[Perpendicularidad]] de la Esquirla [[Conservación]] en el planeta [[10_Mundos/Scadrial/Scadrial|Scadrial]]. Se manifiesta en el Reino Físico como un estanque de [[Investidura]] líquida y brillante, ubicado en una caverna bajo la ciudad de Luthadel, dentro de Kredik Shaw.
 
 ## Mecánicas
 El Pozo es el nexo del poder de [[Conservación]] y la cerradura de la prisión de [[Ruina]]. Cada 1024 años, el Pozo se llena por completo. Cualquier persona que entre en él en ese momento puede tomar el poder de la Esquirla y Ascender a un estado de divinidad temporal, con la capacidad de alterar la realidad a gran escala.

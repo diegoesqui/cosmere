@@ -6,7 +6,7 @@ alias: []
 # Terris
 
 ## Resumen
-Terris es una región montañosa en el norte de [[Scadrial]] y el hogar ancestral del pueblo terrisano.
+Terris es una región montañosa en el norte de [[10_Mundos/Scadrial/Scadrial|Scadrial]] y el hogar ancestral del pueblo terrisano.
 
 ## Descripción
 Antes de la Ascensión del [[Lord Legislador]], Terris era una tierra verde y fértil. Sin embargo, durante el reinado del Lord Legislador, se convirtió en una tundra fría y estéril. Es una región de altas montañas y valles profundos.

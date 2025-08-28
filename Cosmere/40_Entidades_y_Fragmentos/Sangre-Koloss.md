@@ -15,7 +15,7 @@ A los Sangre-Koloss se les ofrece la opción de someterse a la transformación c
 
 ## Conexiones Relevantes
 * **Raza parental:** [[Koloss]]
-* **Mundos asociados:** [[Scadrial]]
+* **Mundos asociados:** [[10_Mundos/Scadrial/Scadrial|Scadrial]]
 * **Personajes Notables:** [[Elizandra Dramali]]
 
 ## Apariciones

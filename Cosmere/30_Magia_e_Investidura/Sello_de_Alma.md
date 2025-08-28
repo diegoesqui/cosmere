@@ -15,7 +15,7 @@ El Falsificador talla un diseño complejo en el sello que representa la historia
 * **Magia asociada:** [[Falsificacion]]
 * **Tipos notables:** [[Marca_de_Esencia]], [[Marcas de Esencia]]
 * **Personajes que lo usan:** [[Shai]], [[Wan ShaiLu]]
-* **Mundos asociados:** [[Sel]]
+* **Mundos asociados:** [[10_Mundos/Sel/Sel|Sel]]
 
 ## Apariciones
 * [[El alma del emperador]]

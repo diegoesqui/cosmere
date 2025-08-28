@@ -6,7 +6,7 @@ alias: [Aon Dor]
 # AonDor
 
 ## Descripción General
-El AonDor es el principal sistema de magia de Arelon en el planeta [[Sel]]. Es utilizado por los Elantrinos, personas que han pasado por la [[Shaod]].
+El AonDor es el principal sistema de magia de Arelon en el planeta [[10_Mundos/Sel/Sel|Sel]]. Es utilizado por los Elantrinos, personas que han pasado por la [[Shaod]].
 
 ## Mecánicas
 La magia se basa en dibujar símbolos, llamados Aones, en el aire, que producen una variedad de efectos mágicos. Los Aones son la base del lenguaje escrito de Arelon y cada uno tiene un significado y un poder asociados.
@@ -20,8 +20,8 @@ El AonDor es una de las formas más directas de canalizar el poder del [[Dor]].
 
 ## Conexiones Relevantes
 * **Usuarios Notables:** [[Raoden]], [[Galladon]]
-* **Mundos asociados:** [[Sel]]
+* **Mundos asociados:** [[10_Mundos/Sel/Sel|Sel]]
 
 ## Apariciones
-* [[Elantris]]
+* [[10_Mundos/Sel/Elantris|Elantris]]
 * [[La esperanza de Elantris]]

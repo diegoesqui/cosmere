@@ -21,5 +21,5 @@ Ambas Esquirlas fueron destruidas (Astilladas) en el pasado lejano. Su poder, si
 
 ## Apariciones
 * [[Arcanum Ilimitado]]
-* [[Elantris]]
+* [[10_Mundos/Sel/Elantris|Elantris]]
 * [[El alma del emperador]]

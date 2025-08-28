@@ -13,7 +13,7 @@ Como spren "muerta", Mayalaran es silenciosa y parece no tener conciencia. Sin e
 
 ## Historia
 ### Sucesos en 'El Ritmo de la Guerra'
-Mayalaran acompaña a [[Adolin Kholin]] en su expedición a [[Shadesmar]]. Su vínculo con Adolin comienza a fortalecerse, y ella muestra signos de recuperar la conciencia, para sorpresa de los demás spren.
+Mayalaran acompaña a [[Adolin Kholin]] en su expedición a [[10_Mundos/Shadesmar/Shadesmar|Shadesmar]]. Su vínculo con Adolin comienza a fortalecerse, y ella muestra signos de recuperar la conciencia, para sorpresa de los demás spren.
 
 ## Conexiones Relevantes
 * **Portador:** [[Adolin Kholin]].

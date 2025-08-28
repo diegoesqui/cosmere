@@ -16,7 +16,7 @@ Como [[Los Fusionados|Fusionada]], Leshwi es una experta en el combate aéreo y 
 
 ## Historia
 ### Sucesos en 'El Ritmo de la Guerra'
-Leshwi es una de las líderes de los [[Los Fusionados|Fusionados]] en la ocupación de [[Kholinar]]. Muestra un interés y un respeto inusuales por [[Venli]], reconociendo su condición de [[Caballero Radiante]].
+Leshwi es una de las líderes de los [[Los Fusionados|Fusionados]] en la ocupación de [[10_Mundos/Roshar/Kholinar|Kholinar]]. Muestra un interés y un respeto inusuales por [[Venli]], reconociendo su condición de [[Caballero Radiante]].
 
 ## Conexiones Relevantes
 * **Aliados:** [[Odium]], [[Los Fusionados]].

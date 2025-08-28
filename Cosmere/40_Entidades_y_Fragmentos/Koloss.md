@@ -5,7 +5,7 @@ tags: concepto, entidad, Scadrial
 # Koloss
 
 ## Descripción General
-Los koloss son una raza de criaturas humanoides de piel azul que habitan en [[Scadrial]]. Son conocidos por su gran fuerza, su naturaleza brutal y su sociedad basada en la dominación del más fuerte.
+Los koloss son una raza de criaturas humanoides de piel azul que habitan en [[10_Mundos/Scadrial/Scadrial|Scadrial]]. Son conocidos por su gran fuerza, su naturaleza brutal y su sociedad basada en la dominación del más fuerte.
 
 ## Mecánicas y Biología
 Los koloss no son una especie que se reproduzca de forma natural; se crean a partir de seres humanos mediante el uso de la [[Hemalurgia]]. El proceso implica clavar cuatro clavos de hierro en el cuerpo de un humano, lo que provoca una transformación salvaje.
@@ -19,7 +19,7 @@ Los koloss viven en tribus o clanes. Su sociedad es jerárquica y se basa purame
 * **Magia asociada:** [[Hemalurgia]]
 * **Esquirla asociada:** [[Ruina]]
 * **Tipos relacionados:** [[Sangre-Koloss]]
-* **Mundos asociados:** [[Scadrial]]
+* **Mundos asociados:** [[10_Mundos/Scadrial/Scadrial|Scadrial]]
 
 ## Apariciones
 * Trilogía original de Nacidos de la Bruma

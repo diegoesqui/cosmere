@@ -18,7 +18,7 @@ Lirin es el cirujano de Piedralar, un pequeño pueblo en Alezkar. Entrena a su h
 * **Familia:** [[Kaladin]] (hijo), [[Tien]] (hijo, fallecido), [[Hesina]] (esposa).
 
 ## Sucesos en 'El Ritmo de la Guerra'
-Lirin y su familia se han trasladado a [[Urithiru]]. Trabaja como cirujano en la torre y sigue intentando convencer a [[Kaladin]] de que abandone la vida militar. Su relación con su hijo sigue siendo tensa debido a sus diferentes filosofías sobre la guerra y la vida.
+Lirin y su familia se han trasladado a [[10_Mundos/Roshar/Urithiru|Urithiru]]. Trabaja como cirujano en la torre y sigue intentando convencer a [[Kaladin]] de que abandone la vida militar. Su relación con su hijo sigue siendo tensa debido a sus diferentes filosofías sobre la guerra y la vida.
 
 ## Apariciones
 * [[El camino de los reyes]] (flashbacks)

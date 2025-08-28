@@ -6,7 +6,7 @@ alias: []
 # Sigzil
 
 ## Resumen
-Un miembro del [[Puente Cuatro]], y un antiguo cantamundos. Es un hombre culto y reservado, con un vasto conocimiento de las culturas y las historias de [[Roshar]].
+Un miembro del [[Puente Cuatro]], y un antiguo cantamundos. Es un hombre culto y reservado, con un vasto conocimiento de las culturas y las historias de [[10_Mundos/Roshar/Roshar|Roshar]].
 
 ## Apariencia y Personalidad
 De piel marrón oscura y pelo negro, sin barba. Es un hombre tranquilo y observador, y a menudo actúa como la voz de la razón en el [[Puente Cuatro]].

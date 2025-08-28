@@ -35,10 +35,10 @@ Szeth continúa su misión de asesinar a los líderes de Roshar, siguiendo las �
 * **Enemigos:** [[Kaladin]].
 
 ### Sucesos en 'Juramentada'
-En "Juramentada", Szeth se entrena como un [[Rompedor del Cielo]] bajo la tutela de [[Nalan]]. Lucha por reconciliar su pasado como el Asesino de Blanco con su nuevo papel como un agente de la justicia. Comienza a vincular a un altospren y a aprender los ideales de su nueva orden. Después de los eventos en las [[Llanuras Quebradas]], [[Dalinar Kholin]] se convierte en su nuevo amo. Szeth jura seguir a Dalinar y su interpretación de la ley. En un interludio, se encuentra en [[Thaylen]] siguiendo las órdenes de Dalinar, protegiéndolo a distancia. Lucha con la naturaleza de su nuevo juramento y la influencia de la espada [[Sangre_Nocturna]], que ahora porta.
+En "Juramentada", Szeth se entrena como un [[Rompedor del Cielo]] bajo la tutela de [[Nalan]]. Lucha por reconciliar su pasado como el Asesino de Blanco con su nuevo papel como un agente de la justicia. Comienza a vincular a un altospren y a aprender los ideales de su nueva orden. Después de los eventos en las [[Llanuras Quebradas]], [[Dalinar Kholin]] se convierte en su nuevo amo. Szeth jura seguir a Dalinar y su interpretación de la ley. En un interludio, se encuentra en [[10_Mundos/Roshar/Thaylen|Thaylen]] siguiendo las órdenes de Dalinar, protegiéndolo a distancia. Lucha con la naturaleza de su nuevo juramento y la influencia de la espada [[Sangre_Nocturna]], que ahora porta.
 
 ### Sucesos en 'El Ritmo de la Guerra'
-Siguiendo las órdenes de [[Dalinar Kholin]], Szeth viaja a las Islas Reshi para encontrar a [[Lift]]. Su misión es llevarla a [[Urithiru]]. Tras un enfrentamiento con ella, y en un intento de demostrar su nueva lealtad a un ideal superior de justicia, le jura lealtad a ella, convirtiéndose en su guardaespaldas.
+Siguiendo las órdenes de [[Dalinar Kholin]], Szeth viaja a las Islas Reshi para encontrar a [[Lift]]. Su misión es llevarla a [[10_Mundos/Roshar/Urithiru|Urithiru]]. Tras un enfrentamiento con ella, y en un intento de demostrar su nueva lealtad a un ideal superior de justicia, le jura lealtad a ella, convirtiéndose en su guardaespaldas.
 
 Como guardaespaldas de [[Lift]], Szeth lucha por comprender su nuevo propósito y su juramento. Mantiene conversaciones con Lift sobre la naturaleza de la justicia y la moralidad, y se da cuenta cada vez más de la peligrosa influencia de [[Sangre Nocturna]].
 

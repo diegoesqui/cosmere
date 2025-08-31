@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Mision_a_Kholinar"
             }
+          },
+          {
+            "id": "4069bc35d5a51103",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf849c8e07e2de46",
+  "active": "4069bc35d5a51103",
   "lastOpenFiles": [
+    "Cosmere/0_A_Analizar/El Héroe de Las Eras - Brandon Sanderson.txt",
     "Kharbranth.md",
     "Cosmere/10_Mundos/Roshar/Roshar.md",
     "Cosmere/20_Personajes/Por_Mundo/Roshar/Sigzil.md",
@@ -196,7 +210,6 @@
     "Cosmere/10_Mundos/Roshar/Rathalas.md",
     "Cosmere/10_Mundos/Primero_del_Sol.md",
     "Cosmere/10_Mundos/Scadrial/Luthadel.md",
-    "Cosmere/10_Mundos/Roshar/Azir.md",
     "Cosmere/10_Mundos/Shadesmar",
     "Cosmere/10_Mundos/Sel",
     "Cosmere/10_Mundos/Scadrial",

@@ -28,6 +28,12 @@ Tras la muerte de [[Kelsier]], se sintió perdida, pero finalmente asumió su pa
 * **Enemigos:** [[Lord Legislador]], [[Inquisidores de Acero]], [[Shan Elariel]], [[Camon]]
 * **Familia:** [[Reen]] (hermanastro, fallecido), [[Sumo Prelado Tevidian]] (padre, fallecido), una madre (fallecida) y una hermana pequeña (fallecida).
 
+## Sucesos en 'El Pozo de la Ascensión'
+
+En *El pozo de la ascensión*, Vin lucha por proteger a [[Luthadel]] de los ejércitos de [[Straff Venture]] y [[Ashweather Cett]]. Se enfrenta a la manipulación de [[Zane Venture]] y a sus propias dudas sobre su relación con [[Elend Venture]].
+
+Sigue las pistas del [[Héroe de las Eras]], lo que la lleva al [[Pozo de la Ascensión]]. Allí, engañada por [[Ruina]], libera a la entidad, creyendo que está salvando al mundo. También descubre la existencia del [[Lerasium]], el metal que convierte a las personas en [[Nacido de la Bruma|Nacidos de la Bruma]], y lo utiliza para salvar a un Elend moribundo.
+
 ## Sucesos en 'El Héroe de las Eras'
 
 En *El Héroe de las Eras*, Vin lucha para proteger el Nuevo Imperio de la creciente amenaza de [[Ruina]]. Descubre la verdad sobre la [[Hemalurgia]], el origen de los [[Koloss]] y los [[Kandra]], y su propio papel como el [[Héroe de las Eras]].

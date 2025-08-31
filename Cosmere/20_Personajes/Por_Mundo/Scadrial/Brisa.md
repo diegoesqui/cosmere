@@ -17,8 +17,12 @@ Como Aplacador, Brisa puede quemar latón para calmar o suprimir las emociones d
 ## Historia
 En "El Imperio Final", Brisa es reclutado por [[Kelsier]] para ayudar en la rebelión. Su tarea principal es utilizar sus habilidades para reclutar skaa para el ejército rebelde, inspirando en ellos valor y lealtad. A pesar de su aparente cinismo sobre el plan, demuestra ser un miembro valioso y comprometido del equipo. Tras la caída del Imperio Final, se convierte en un diplomático y consejero en el nuevo gobierno de [[Elend Venture]].
 
+En *El pozo de la ascensión*, durante el [[Asedio de Luthadel]], conoce a [[Allrianne Cett]], la hija de [[Ashweather Cett]], y ambos desarrollan una relación romántica.
+
 ## Conexiones Relevantes
 * **Amigos:** [[Kelsier]], [[Vin]], [[Dockson]], [[Ham]], [[Clubs]], [[Fantasma]]
+* **Intereses románticos:** [[Allrianne Cett]]
 
 ## Apariciones
-* [[El Imperio Final]]
+* [[El imperio final (libro)]]
+* [[El pozo de la ascensión (libro)]]

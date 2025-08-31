@@ -14,6 +14,8 @@ Los kandra son una forma evolucionada de los [[Espectros de la bruma]], creados 
 ## Habilidades
 La principal habilidad de un kandra es su capacidad para alterar su cuerpo a voluntad, imitando la apariencia de otros seres. Para ello, necesitan los huesos de la persona a la que van a imitar. También son extremadamente difíciles de matar, ya que pueden sobrevivir a heridas que serían mortales para un humano.
 
+Una debilidad crucial de los kandra es que pueden ser controlados por un [[Alomante]] que sea lo suficientemente poderoso. Un [[Alomancia|Aplacador]] o [[Alomancia|Encendedor]] puede tomar el control de un kandra, subyugando su voluntad.
+
 ## Historia
 En "El Imperio Final", un kandra llamado [[TenSoon]] es contratado por [[Kelsier]] para que se haga pasar por [[Lord Renoux]], un noble del oeste. Este engaño es fundamental para el plan de la rebelión, ya que permite a la banda comprar armas y suministros sin levantar sospechas.
 

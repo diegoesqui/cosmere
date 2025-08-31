@@ -28,6 +28,12 @@ Al final del libro, con el [[Lord Legislador]] muerto, es posicionado por la ban
 * **Enemigos:** [[Straff Venture]] (su padre), [[Shan Elariel]] (su exprometida)
 * **Familia:** [[Straff Venture]] (padre)
 
+## Sucesos en 'El Pozo de la Ascensión'
+
+En *El pozo de la ascensión*, Elend lucha por establecer su gobierno en [[Luthadel]], enfrentándose a la oposición de la Asamblea y a los ejércitos de su padre, [[Straff Venture]], y de [[Ashweather Cett]]. Es depuesto como rey, pero con la ayuda de [[Tindwyl]], aprende a ser un líder más fuerte y decidido.
+
+Al final del libro, es herido de muerte por un koloss, pero [[Vin]] lo salva dándole de comer una perla de [[Lerasium]] del [[Pozo de la Ascensión]], lo que lo convierte en un [[Nacido de la Bruma]].
+
 ## Sucesos en 'El Héroe de las Eras'
 
 En *El Héroe de las Eras*, Elend se ha convertido en un líder militar competente y un [[Nacido de la Bruma]] por derecho propio, después de ingerir una perla de [[Lerasium]] en el [[Pozo de la Ascensión]]. Lidera a los ejércitos del Nuevo Imperio contra las fuerzas de [[Ruina]], incluyendo los ejércitos de [[koloss]] y los [[Inquisidores de Acero]].

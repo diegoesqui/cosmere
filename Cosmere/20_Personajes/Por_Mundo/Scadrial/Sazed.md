@@ -23,6 +23,12 @@ Desempeña un papel crucial en la formación de [[Vin]], no en la Alomancia, sin
 
 Después de que Vin se enfrente al [[Lord Legislador]], Sazed la rescata de Kredik Shaw, usando su feruquimia para luchar contra los Inquisidores y llevarla a un lugar seguro.
 
+### El Pozo de la Ascensión
+
+En *El pozo de la ascensión*, Sazed viaja por el [[Imperio Final]] para predicar las religiones que ha preservado. Descubre que las brumas han comenzado a matar gente y que las profecías del [[Héroe de las Eras]] han sido alteradas.
+
+Regresa a [[Luthadel]] para ayudar en la defensa de la ciudad contra los ejércitos invasores. Durante este tiempo, reaviva su relación con [[Tindwyl]]. La muerte de Tindwyl durante el asedio de los [[koloss]] le provoca una profunda crisis de fe.
+
 ### El Héroe de las Eras
 
 En *El Héroe de las Eras*, Sazed continúa luchando con su crisis de fe, estudiando metódicamente las religiones del mundo en busca de una verdad que pueda restaurar su esperanza. Viaja a Urteau con [[Brisa]] y [[Fantasma]] para sofocar una rebelión, y allí descubre la verdad sobre el origen de los [[Kandra]] y la religión de Terris.

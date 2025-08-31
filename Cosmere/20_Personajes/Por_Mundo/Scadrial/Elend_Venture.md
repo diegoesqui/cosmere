@@ -28,5 +28,20 @@ Al final del libro, con el [[Lord Legislador]] muerto, es posicionado por la ban
 * **Enemigos:** [[Straff Venture]] (su padre), [[Shan Elariel]] (su exprometida)
 * **Familia:** [[Straff Venture]] (padre)
 
+## Sucesos en 'El Héroe de las Eras'
+
+En *El Héroe de las Eras*, Elend se ha convertido en un líder militar competente y un [[Nacido de la Bruma]] por derecho propio, después de ingerir una perla de [[Lerasium]] en el [[Pozo de la Ascensión]]. Lidera a los ejércitos del Nuevo Imperio contra las fuerzas de [[Ruina]], incluyendo los ejércitos de [[koloss]] y los [[Inquisidores de Acero]].
+
+Lucha por equilibrar su idealismo con las duras realidades de la guerra y el liderazgo en un mundo que se desmorona. Dirige el asedio de [[Fadrex]] para asegurar el último depósito de almacenamiento del [[Lord Legislador]].
+
+En la batalla final contra los [[koloss]] en las afueras de la [[Tierra Natal (Kandra)|Tierra Natal Kandra]], quema [[atium]] y [[duraluminio]] para obtener una visión del plan de [[Ruina]]. Muere a manos de [[Marsh]], pero su sacrificio permite a [[Vin]] comprender cómo derrotar a [[Ruina]].
+
+## Conexiones Relevantes
+* **Aliados:** [[Vin]], [[Jastes Lekal]], Telden Hasting, [[Dockson]], [[Ham]], [[Brisa]], [[Sazed]], [[Yomen]]
+* **Enemigos:** [[Straff Venture]] (su padre), [[Shan Elariel]] (su exprometida), [[Ruina]], [[Marsh]]
+* **Familia:** [[Straff Venture]] (padre)
+
 ## Apariciones
 * [[El imperio final (libro)]]
+* [[El pozo de la ascensión (libro)]]
+* [[El Héroe de las Eras (libro)]]

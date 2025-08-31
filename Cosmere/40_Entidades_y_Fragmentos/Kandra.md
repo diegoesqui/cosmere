@@ -17,9 +17,23 @@ La principal habilidad de un kandra es su capacidad para alterar su cuerpo a vol
 ## Historia
 En "El Imperio Final", un kandra llamado [[TenSoon]] es contratado por [[Kelsier]] para que se haga pasar por [[Lord Renoux]], un noble del oeste. Este engaño es fundamental para el plan de la rebelión, ya que permite a la banda comprar armas y suministros sin levantar sospechas.
 
+## Sociedad y Cultura
+
+La sociedad kandra se organiza en Generaciones, y su hogar secreto es la [[Tierra Natal (Kandra)]], ubicada en las cavernas de los [[Pozos de Hathsin]]. Su sociedad se rige por el Primer Contrato, un acuerdo con el [[Lord Legislador]] que dicta su servidumbre a los humanos a cambio de protección y el secreto de su existencia.
+
+### La Primera Generación
+
+La [[Primera Generación (Kandra)]] son los feruquimistas originales que acompañaron a [[Rashek]] al [[Pozo de la Ascensión]]. Poseen el conocimiento de la religión original de Terris y las profecías del [[Héroe de las Eras]].
+
+### La Resolución
+
+[[La Resolución]] es un protocolo de suicidio en masa diseñado para evitar que [[Ruina]] controle a los kandra a través de sus clavos hemalúrgicos.
+
 ## Conexiones Relevantes
 * **Creador:** [[Lord Legislador]]
-* **Relacionados con:** [[Espectros de la bruma]]
+* **Relacionados con:** [[Espectros de la bruma]], [[Primera Generación (Kandra)]]
 
 ## Apariciones
-* [[El Imperio Final]]
+* [[El imperio final (libro)]]
+* [[El pozo de la ascensión (libro)]]
+* [[El Héroe de las Eras (libro)]]

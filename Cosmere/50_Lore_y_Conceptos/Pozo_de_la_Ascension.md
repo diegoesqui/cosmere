@@ -19,6 +19,7 @@ La profecía del Héroe de las Eras, manipulada por [[Ruina]], indicaba que el H
 *   **[[Kelsier]]:** Tras su muerte, su espíritu se ancló al Pozo en el [[Reino Cognitivo]] para evitar ser arrastrado al Más Allá y poder seguir observando e influyendo en el mundo.
 
 ## Apariciones
-* [[El Imperio Final]] (mencionado)
-* Trilogía original de Nacidos de la Bruma
+* [[El imperio final (libro)]] (mencionado)
+* [[El pozo de la ascensión (libro)]]
+* [[El Héroe de las Eras (libro)]]
 * [[Nacidos de la bruma: Historia Secreta]]

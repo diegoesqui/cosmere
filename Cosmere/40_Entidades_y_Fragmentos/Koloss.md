@@ -22,5 +22,6 @@ Los koloss viven en tribus o clanes. Su sociedad es jerárquica y se basa purame
 * **Mundos asociados:** [[10_Mundos/Scadrial/Scadrial|Scadrial]]
 
 ## Apariciones
+* [[El Héroe de las Eras (libro)]]
 * Trilogía original de Nacidos de la Bruma
 * [[Alomante Jak y los Pozos de Eltania]]

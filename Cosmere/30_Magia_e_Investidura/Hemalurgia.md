@@ -1,27 +1,27 @@
----
-tags: concepto, magia, Scadrial
-alias: [Hemalurgy]
----
-
 # Hemalurgia
 
-## Descripción General
-La Hemalurgia es uno de los tres principales Artes Metálicos nativos del planeta [[10_Mundos/Scadrial/Scadrial|Scadrial]]. Se le conoce como el Arte de la [[Ruina]]. Es un proceso que permite robar poderes o atributos de una persona y otorgárselos a otra mediante el uso de clavos metálicos. El [[Lord Legislador]] la utilizó para crear a sus sirvientes más poderosos, los [[Inquisidores de Acero]] y los [[Koloss]].
+**Tipo:** Arte Metálico
 
-## Mecánicas
-El proceso hemalúrgico es inherentemente violento y destructivo. Implica atravesar el cuerpo de una persona con un pincho de un metal específico, generalmente matándola en el proceso. Este acto "carga" el clavo con una porción del alma o del poder de la víctima (como su [[Alomancia]] o [[Feruquimia]]). 
+## Resumen
 
-Luego, este clavo se inserta en un punto de anclaje preciso en el cuerpo de otra persona, otorgándole el poder robado. Este proceso siempre resulta en una pérdida neta de poder (es "end-negative") y abre el alma del receptor a la influencia externa, especialmente a la de [[Ruina]].
+La Hemalurgia es el tercer arte metálico del Cosmere, asociado con el Fragmento [[Ruina]]. A diferencia de la [[Alomancia]] y la [[Feruquimia]], la Hemalurgia no es un poder neutral, sino que está intrínsecamente ligada a la destrucción. Consiste en robar los poderes de otras personas, ya sean alománticos o feruquímicos, mediante el uso de clavos metálicos que se atraviesan en el cuerpo de la víctima y luego en el del receptor.
 
-Khriss considera que la Hemalurgia es la magia con el mayor impacto potencial en el [[Cosmere]], ya que puede usarse para robar cualquier tipo de [[Investidura]] de cualquier planeta.
+## Principios
 
-## Conexiones Relevantes
-* **Esquirla asociada:** [[Ruina]]
-* **Artes relacionados:** [[Alomancia]], [[Feruquimia]]
-* **Mundos asociados:** [[10_Mundos/Scadrial/Scadrial|Scadrial]]
-* **Creaciones Notables:** [[Inquisidores de Acero]], [[Koloss]]
+*   **Robo de Poder:** La Hemalurgia roba el poder de un individuo para transferirlo a otro.
+*   **Decadencia:** El poder transferido a través de la Hemalurgia es ligeramente menor que el original. Con cada transferencia, el poder se degrada.
+*   **Corrupción:** El uso de la Hemalurgia abre al individuo a la influencia de [[Ruina]].
 
-## Apariciones
-* [[El Imperio Final]]
-* Trilogía original de Nacidos de la Bruma
-* [[Nacidos de la bruma: Historia Secreta]]
+## Aplicaciones
+
+*   **Creación de [[Inquisidores de Acero]]:** Los Inquisidores de Acero son creados mediante el uso de múltiples clavos hemalúrgicos para robar los poderes de varios alománticos.
+*   **Creación de [[Koloss]]:** Los koloss son creados a partir de humanos usando cuatro clavos hemalúrgicos.
+*   **Creación de [[Kandra]]:** Los kandra son creados a partir de espectros de la bruma usando dos clavos hemalúrgicos para otorgarles consciencia.
+
+## Referencias
+
+*   [[El Héroe de las Eras (libro)]]
+*   [[Ruina]]
+*   [[Inquisidores de Acero]]
+*   [[Koloss]]
+*   [[Kandra]]

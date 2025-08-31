@@ -28,5 +28,18 @@ Tras la muerte de [[Kelsier]], se sintió perdida, pero finalmente asumió su pa
 * **Enemigos:** [[Lord Legislador]], [[Inquisidores de Acero]], [[Shan Elariel]], [[Camon]]
 * **Familia:** [[Reen]] (hermanastro, fallecido), [[Sumo Prelado Tevidian]] (padre, fallecido), una madre (fallecida) y una hermana pequeña (fallecida).
 
+## Sucesos en 'El Héroe de las Eras'
+
+En *El Héroe de las Eras*, Vin lucha para proteger el Nuevo Imperio de la creciente amenaza de [[Ruina]]. Descubre la verdad sobre la [[Hemalurgia]], el origen de los [[Koloss]] y los [[Kandra]], y su propio papel como el [[Héroe de las Eras]].
+
+Junto a [[Elend Venture]], busca los depósitos de almacenamiento del [[Lord Legislador]], con la esperanza de encontrar el alijo de [[atium]] y una forma de derrotar a [[Ruina]]. Finalmente, se da cuenta de que su destino no es salvar el mundo, sino preservarlo. En un acto de sacrificio, asciende y utiliza su poder para destruir a [[Ruina]], muriendo en el proceso.
+
+## Conexiones Relevantes
+* **Aliados:** [[Kelsier]], [[Elend Venture]], [[Sazed]], [[Dockson]], [[Ham]], [[Brisa]], [[TenSoon]]
+* **Enemigos:** [[Lord Legislador]], [[Inquisidores de Acero]], [[Shan Elariel]], [[Camon]], [[Ruina]], [[Marsh]]
+* **Familia:** [[Reen]] (hermanastro, fallecido), [[Sumo Prelado Tevidian]] (padre, fallecido), una madre (fallecida) y una hermana pequeña (fallecida).
+
 ## Apariciones
 * [[El imperio final (libro)]]
+* [[El pozo de la ascensión (libro)]]
+* [[El Héroe de las Eras (libro)]]

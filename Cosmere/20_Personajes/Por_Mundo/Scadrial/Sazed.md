@@ -23,16 +23,20 @@ Desempeña un papel crucial en la formación de [[Vin]], no en la Alomancia, sin
 
 Después de que Vin se enfrente al [[Lord Legislador]], Sazed la rescata de Kredik Shaw, usando su feruquimia para luchar contra los Inquisidores y llevarla a un lugar seguro.
 
-### Resto de la Trilogía y "Nacidos de la bruma: Historia Secreta"
-Tras la muerte de [[Vin]] y [[Elend Venture]], Sazed se encuentra en el lugar donde los poderes de [[Conservación]] y [[Ruina]] han sido liberados. Al ser un terrisano (con afinidad tanto por la Ruina como por la Conservación) y comprender ambas intenciones, es capaz de tomar las dos Esquirlas simultáneamente.
+### El Héroe de las Eras
+
+En *El Héroe de las Eras*, Sazed continúa luchando con su crisis de fe, estudiando metódicamente las religiones del mundo en busca de una verdad que pueda restaurar su esperanza. Viaja a Urteau con [[Brisa]] y [[Fantasma]] para sofocar una rebelión, y allí descubre la verdad sobre el origen de los [[Kandra]] y la religión de Terris.
+
+Al final, tras la muerte de [[Vin]] y [[Elend Venture]], Sazed se encuentra en el lugar donde los poderes de [[Conservación]] y [[Ruina]] han sido liberados. Al ser un terrisano (con afinidad tanto por la Ruina como por la Conservación) y comprender ambas intenciones, es capaz de tomar las dos Esquirlas simultáneamente.
 
 Al hacerlo, Asciende y se convierte en una nueva entidad dual conocida como [[Armonía]]. Usa su nuevo poder para reparar el planeta [[10_Mundos/Scadrial/Scadrial|Scadrial]], moviendo el sol y restaurando el equilibrio ecológico.
 
 ## Conexiones Relevantes
-* **Amigos:** [[Kelsier]], [[Vin]], [[Elend Venture]], [[Dockson]], [[Ham]], [[Brisa]], [[Clubs]], [[Fantasma]]
+* **Amigos:** [[Kelsier]], [[Vin]], [[Elend Venture]], [[Dockson]], [[Ham]], [[Brisa]], [[Clubs]], [[Fantasma]], [[TenSoon]]
 
 ## Apariciones
-* [[El Imperio Final]]
-* Trilogía original de Nacidos de la Bruma
+* [[El imperio final (libro)]]
+* [[El pozo de la ascensión (libro)]]
+* [[El Héroe de las Eras (libro)]]
 * [[Nacidos de la bruma: Historia Secreta]]
 * Serie de Wax y Wayne (como Armonía)

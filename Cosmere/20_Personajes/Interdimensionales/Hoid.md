@@ -36,6 +36,9 @@ Hoid aparece como el grumete del *Canto del Cuervo*, aunque su comportamiento es
 
 [[Trenza]] interactúa con él en varias ocasiones. Finalmente, deduce que la maldición de Hoid requiere que él sea llevado de vuelta a la torre de la Hechicera para ser rota. Al final de la historia, con la maldición deshecha, Hoid recupera su ingenio y ayuda a Trenza a modificar la maldición de [[Charlie]].
 
+### Sucesos en 'Yumi y el pintor de pesadillas'
+En este libro, Hoid se encuentra en [[Komashi]] petrificado en forma de estatua y es utilizado como perchero en el restaurante de fideos de [[Diseño]]. Su mente está en un estado de trance, pero es capaz de percibir los eventos que rodean a [[Yumi]] y a [[Pintor]] como si fueran una historia que se le cuenta. Al final, es liberado de su parálisis cuando la amenaza principal del planeta es neutralizada.
+
 ## Conexiones Relevantes
 * **Conocidos:** Casi todos los personajes importantes del Cosmere.
 
@@ -45,3 +48,4 @@ Hoid aparece como el grumete del *Canto del Cuervo*, aunque su comportamiento es
 * [[Juramentada (libro)]]
 * [[El Ritmo de la Guerra (libro)]]
 * [[Trenza del mar Esmeralda (libro)]]
+* [[Yumi y el pintor de pesadillas (libro)]]

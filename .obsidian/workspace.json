@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmere/00_Meta/_Plantillas/Plantilla_Concepto.md",
-                "mode": "preview",
-                "source": true
+                "file": "Cosmere/20_Personajes/Por_Mundo/Roshar/Moash.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla_Concepto"
+              "title": "Moash"
             }
           }
         ],
@@ -186,6 +186,10 @@
   },
   "active": "4069bc35d5a51103",
   "lastOpenFiles": [
+    "Cosmere/20_Personajes/Por_Mundo/Scadrial/Vin.md",
+    "Cosmere/50_Lore_y_Conceptos/Mision_a_Kholinar.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Sigzil.md",
+    "Cosmere/00_Meta/_Plantillas/Plantilla_Concepto.md",
     "Cosmere/30_Magia_e_Investidura/Eteres.md",
     "Cosmere/99_Analizados/Brandon Sanderson - Novela Secreta 1 - Trenza del mar Esmeralda.txt",
     "Cosmere/50_Lore_y_Conceptos/Trenza_del_mar_Esmeralda_(libro).md",
@@ -199,7 +203,6 @@
     "Cosmere/20_Personajes/Por_Mundo/Lumar",
     "Cosmere/00_Meta/_Plantillas/Plantilla_Mundo.md",
     "Cosmere/00_Meta/_Plantillas/Plantilla_Personaje.md",
-    "Cosmere/00_Meta/_Plantillas/Plantilla_Concepto.md",
     "Cosmere/20_Personajes/Por_Mundo/Scadrial/Sazed.md",
     "Cosmere/0_A_Analizar/Brandon Sanderson - Novela Secreta 4 - El hombre iluminado.txt",
     "Cosmere/0_A_Analizar/Brandon Sanderson - Novela Secreta 3 - Yumi y el pintor de pesadillas.txt",
@@ -218,9 +221,6 @@
     "Cosmere/0_A_Analizar/El Pozo de la Ascensión. (Ed. revisada) - Brandon Sanderson.txt",
     "Cosmere/99_Analizados/El imperio final - Brandon Sanderson.txt",
     "Cosmere/99_Analizados/El Héroe de Las Eras - Brandon Sanderson.txt",
-    "Cosmere/50_Lore_y_Conceptos/Heroe_de_las_Eras.md",
-    "Cosmere/40_Entidades_y_Fragmentos/Inquisidores_de_Acero.md",
-    "Cosmere/20_Personajes/Por_Mundo/Scadrial/TenSoon.md",
-    "Cosmere/50_Lore_y_Conceptos/El_Heroe_de_las_Eras_(libro).md"
+    "Cosmere/50_Lore_y_Conceptos/Heroe_de_las_Eras.md"
   ]
 }

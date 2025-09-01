@@ -1,5 +1,8 @@
 ---
-tags: entidad, spren, Roshar
+tags:
+  - entidad
+  - spren
+  - Roshar
 ---
 
 # Regentes de Kholinar

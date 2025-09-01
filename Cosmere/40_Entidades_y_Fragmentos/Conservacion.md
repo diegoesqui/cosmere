@@ -1,5 +1,8 @@
 ---
-tags: concepto, esquirla, Scadrial
+tags:
+  - concepto
+  - esquirla
+  - Scadrial
 alias: [Leras, Borrón]
 ---
 

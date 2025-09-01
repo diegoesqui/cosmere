@@ -1,5 +1,8 @@
 ---
-tags: personaje, Roshar, Kholin
+tags:
+  - personaje
+  - Roshar
+  - Kholin
 ---
 
 # Gavinor

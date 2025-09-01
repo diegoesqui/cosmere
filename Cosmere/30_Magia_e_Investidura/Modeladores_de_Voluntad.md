@@ -1,5 +1,8 @@
 ---
-tags: concepto, magia, Roshar
+tags:
+  - concepto
+  - magia
+  - Roshar
 alias: [Willshapers]
 ---
 

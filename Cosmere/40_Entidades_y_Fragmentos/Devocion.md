@@ -1,5 +1,8 @@
 ---
-tags: concepto, esquirla, Sel
+tags:
+  - concepto
+  - esquirla
+  - Sel
 ---
 
 # Devoción

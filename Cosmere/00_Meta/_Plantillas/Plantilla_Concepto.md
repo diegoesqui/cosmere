@@ -1,5 +1,8 @@
 ---
-tags: concepto, magia, [mundo]
+tags:
+  - concepto
+  - mundo
+  - magia
 ---
 
 # {{Nombre del Concepto}}

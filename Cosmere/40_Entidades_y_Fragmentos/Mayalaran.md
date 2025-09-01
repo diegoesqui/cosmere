@@ -1,5 +1,8 @@
 ---
-tags: personaje, spren, Roshar
+tags:
+  - personaje
+  - spren
+  - Roshar
 alias: []
 ---
 

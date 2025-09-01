@@ -1,5 +1,7 @@
 ---
-tags: libro, Roshar
+tags:
+  - libro
+  - Roshar
 ---
 
 # Juramentada (libro)

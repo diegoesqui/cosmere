@@ -1,5 +1,8 @@
 ---
-tags: personaje, Roshar, Comecuernos
+tags:
+  - personaje
+  - Roshar
+  - Comecuernos
 alias: []
 ---
 

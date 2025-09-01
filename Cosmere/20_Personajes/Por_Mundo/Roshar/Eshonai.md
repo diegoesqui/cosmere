@@ -1,5 +1,8 @@
 ---
-tags: personaje, Roshar, Parshendi
+tags:
+  - personaje
+  - Roshar
+  - Parshendi
 alias: []
 ---
 

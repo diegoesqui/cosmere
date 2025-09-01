@@ -1,5 +1,9 @@
 ---
-tags: personaje, Roshar, Kholin, ForjadorDeVinculos
+tags:
+  - personaje
+  - Roshar
+  - Kholin
+  - ForjadorDeVinculos
 alias: [Espina Negra]
 ---
 

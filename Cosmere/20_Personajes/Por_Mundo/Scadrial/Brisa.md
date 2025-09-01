@@ -1,5 +1,7 @@
 ---
-tags: personaje, Scadrial
+tags:
+  - personaje
+  - Scadrial
 alias: [Ladrian]
 ---
 

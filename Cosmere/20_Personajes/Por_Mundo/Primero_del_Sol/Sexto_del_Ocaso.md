@@ -1,5 +1,7 @@
 ---
-tags: personaje, Primero del Sol
+tags:
+  - personaje
+  - Primero del Sol
 alias: [Ocaso]
 ---
 

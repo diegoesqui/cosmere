@@ -1,5 +1,7 @@
 ---
-tags: mundo, Shadesmar
+tags:
+  - mundo
+  - Shadesmar
 ---
 
 # Celebrant

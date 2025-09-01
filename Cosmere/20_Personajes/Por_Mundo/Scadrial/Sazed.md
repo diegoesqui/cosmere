@@ -1,5 +1,9 @@
 ---
-tags: personaje, Scadrial, Terris, esquirla
+tags:
+  - personaje
+  - Scadrial
+  - Terris
+  - esquirla
 alias: [Armonía]
 ---
 

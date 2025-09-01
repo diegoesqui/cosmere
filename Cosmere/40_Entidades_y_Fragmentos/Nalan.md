@@ -1,5 +1,8 @@
 ---
-tags: entidad, heraldo, Roshar
+tags:
+  - entidad
+  - heraldo
+  - Roshar
 alias: [Nale, Oscuridad]
 ---
 

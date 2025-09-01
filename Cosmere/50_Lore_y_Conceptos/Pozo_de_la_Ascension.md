@@ -1,5 +1,8 @@
 ---
-tags: concepto, lugar, Scadrial
+tags:
+  - concepto
+  - lugar
+  - Scadrial
 alias: [Well of Ascension]
 ---
 

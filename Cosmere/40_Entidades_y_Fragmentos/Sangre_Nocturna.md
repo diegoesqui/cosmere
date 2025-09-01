@@ -1,5 +1,8 @@
 ---
-tags: entidad, arma, Interdimensional
+tags:
+  - entidad
+  - arma
+  - Interdimensional
 alias: [Nightblood]
 ---
 

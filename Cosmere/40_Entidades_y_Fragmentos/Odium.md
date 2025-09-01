@@ -1,5 +1,7 @@
 ---
-tags: entidad, esquirla
+tags:
+  - entidad
+  - esquirla
 ---
 
 # Odium

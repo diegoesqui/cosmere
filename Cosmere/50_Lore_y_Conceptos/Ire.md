@@ -1,5 +1,7 @@
 ---
-tags: concepto, organizacion
+tags:
+  - concepto
+  - organizacion
 ---
 
 # Ire

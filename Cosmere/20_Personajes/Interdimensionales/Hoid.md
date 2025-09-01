@@ -1,5 +1,7 @@
 ---
-tags: personaje, Interdimensional
+tags:
+  - personaje
+  - Interdimensional
 alias: [Sagaz]
 ---
 
@@ -29,6 +31,11 @@ Se enfrenta a [[Jasnah Kholin]], revelando más sobre sus antiguos orígenes y s
 ### Sucesos en 'El Ritmo de la Guerra'
 En el epílogo, Hoid tiene una confrontación directa con el recién ascendido [[Taravangian]]-Odium. En un sorprendente giro, el nuevo y más astuto [[Odium]] logra engañar a Hoid, alterando sus recuerdos (alientos) y eliminando su tono perfecto. Este es un golpe significativo para Hoid, dejándolo vulnerable y con sus recuerdos comprometidos por primera vez.
 
+### Sucesos en 'Trenza del mar Esmeralda'
+Hoid aparece como el grumete del *Canto del Cuervo*, aunque su comportamiento es errático y aparentemente sin sentido. Esto se debe a una maldición que le impuso la [[Riina|Hechicera]], que le impide comunicarse de forma coherente o revelar información que pueda ayudar a romperla.
+
+[[Trenza]] interactúa con él en varias ocasiones. Finalmente, deduce que la maldición de Hoid requiere que él sea llevado de vuelta a la torre de la Hechicera para ser rota. Al final de la historia, con la maldición deshecha, Hoid recupera su ingenio y ayuda a Trenza a modificar la maldición de [[Charlie]].
+
 ## Conexiones Relevantes
 * **Conocidos:** Casi todos los personajes importantes del Cosmere.
 
@@ -37,3 +44,4 @@ En el epílogo, Hoid tiene una confrontación directa con el recién ascendido [
 * [[Palabras radiantes (libro)]]
 * [[Juramentada (libro)]]
 * [[El Ritmo de la Guerra (libro)]]
+* [[Trenza del mar Esmeralda (libro)]]

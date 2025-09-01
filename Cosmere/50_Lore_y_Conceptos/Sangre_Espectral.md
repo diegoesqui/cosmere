@@ -1,5 +1,7 @@
 ---
-tags: concepto, organización
+tags:
+  - concepto
+  - organización
 ---
 
 # Sangre Espectral

@@ -1,5 +1,8 @@
 ---
-tags: personaje, Scadrial, Sangre-Koloss
+tags:
+  - personaje
+  - Scadrial
+  - Sangre-Koloss
 alias: [Zandra]
 ---
 

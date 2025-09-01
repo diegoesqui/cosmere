@@ -1,5 +1,8 @@
 ---
-tags: concepto, magia, scadrial
+tags:
+  - concepto
+  - magia
+  - scadrial
 ---
 
 # Alomancia

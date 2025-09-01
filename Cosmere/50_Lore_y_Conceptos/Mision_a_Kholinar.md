@@ -1,5 +1,7 @@
 ---
-tags: evento, Roshar
+tags:
+  - evento
+  - Roshar
 ---
 
 # Misión a Kholinar

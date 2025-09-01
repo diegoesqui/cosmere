@@ -1,5 +1,7 @@
 ---
-tags: entidad, cosmere
+tags:
+  - entidad
+  - cosmere
 alias: [Sleepless, Dysian Aimian]
 ---
 

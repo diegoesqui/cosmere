@@ -1,5 +1,7 @@
 ---
-tags: concepto, Treno
+tags:
+  - concepto
+  - Treno
 alias: [The Evil]
 ---
 

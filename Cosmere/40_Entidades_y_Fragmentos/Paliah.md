@@ -1,5 +1,8 @@
 ---
-tags: entidad, Heraldo, Roshar
+tags:
+  - entidad
+  - Heraldo
+  - Roshar
 alias: [Palah]
 ---
 

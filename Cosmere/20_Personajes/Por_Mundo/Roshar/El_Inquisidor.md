@@ -1,5 +1,8 @@
 ---
-tags: personaje, Roshar, Azir
+tags:
+  - personaje
+  - Roshar
+  - Azir
 ---
 
 # El Inquisidor

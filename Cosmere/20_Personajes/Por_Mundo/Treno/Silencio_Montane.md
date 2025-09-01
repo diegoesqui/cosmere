@@ -1,5 +1,7 @@
 ---
-tags: personaje, Treno
+tags:
+  - personaje
+  - Treno
 alias: [Zorro Blanco]
 ---
 

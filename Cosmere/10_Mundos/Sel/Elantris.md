@@ -1,5 +1,8 @@
 ---
-tags: lugar, ciudad, Sel
+tags:
+  - lugar
+  - ciudad
+  - Sel
 ---
 
 # Elantris

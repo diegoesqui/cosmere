@@ -1,5 +1,8 @@
 ---
-tags: concepto, magia, Scadrial
+tags:
+  - concepto
+  - magia
+  - Scadrial
 alias: [Malatium]
 ---
 

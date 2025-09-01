@@ -1,5 +1,7 @@
 ---
-tags: personaje, Sel
+tags:
+  - personaje
+  - Sel
 ---
 
 # Karata

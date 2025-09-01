@@ -1,5 +1,7 @@
 ---
-tags: concepto, Roshar
+tags:
+  - concepto
+  - Roshar
 ---
 
 # Tormenta Eterna

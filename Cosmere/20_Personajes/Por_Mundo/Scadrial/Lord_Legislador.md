@@ -1,5 +1,8 @@
 ---
-tags: personaje, Scadrial, antagonista
+tags:
+  - personaje
+  - Scadrial
+  - antagonista
 alias: [Rashek]
 ---
 

@@ -1,5 +1,7 @@
 ---
-tags: personaje, Interdimensional
+tags:
+  - personaje
+  - Interdimensional
 alias: []
 ---
 

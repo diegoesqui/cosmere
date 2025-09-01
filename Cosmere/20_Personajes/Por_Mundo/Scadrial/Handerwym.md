@@ -1,5 +1,8 @@
 ---
-tags: personaje, Scadrial, Terris
+tags:
+  - personaje
+  - Scadrial
+  - Terris
 ---
 
 # Handerwym

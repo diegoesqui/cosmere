@@ -1,5 +1,8 @@
 ---
-tags: concepto, magia, Taldain
+tags:
+  - concepto
+  - magia
+  - Taldain
 alias: [Sand Mastery]
 ---
 

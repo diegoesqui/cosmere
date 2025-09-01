@@ -1,5 +1,7 @@
 ---
-tags: concepto, magia
+tags:
+  - concepto
+  - magia
 ---
 
 # Investidura

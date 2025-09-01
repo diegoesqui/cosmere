@@ -1,5 +1,7 @@
 ---
-tags: concepto, esquirla
+tags:
+  - concepto
+  - esquirla
 alias: [Autonomy]
 ---
 

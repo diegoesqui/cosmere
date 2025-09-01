@@ -1,5 +1,7 @@
 ---
-tags: ubicacion, scadrial
+tags:
+  - ubicacion
+  - scadrial
 alias: [Capital Imperial]
 ---
 

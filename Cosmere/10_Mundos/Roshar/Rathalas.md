@@ -1,5 +1,7 @@
 ---
-tags: mundo, Roshar
+tags:
+  - mundo
+  - Roshar
 alias: [La Grieta]
 ---
 

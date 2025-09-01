@@ -1,5 +1,8 @@
 ---
-tags: concepto, entidad, Sel
+tags:
+  - concepto
+  - entidad
+  - Sel
 alias: [skaze]
 ---
 

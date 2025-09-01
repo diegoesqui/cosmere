@@ -1,5 +1,7 @@
 ---
-tags: lugar, Scadrial
+tags:
+  - lugar
+  - Scadrial
 alias: []
 ---
 

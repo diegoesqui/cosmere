@@ -1,6 +1,10 @@
 ---
-tags: personaje, [mundo]
-alias: [alias1, alias2]
+tags:
+  - mundo
+  - personaje
+alias:
+  - alias1
+  - alias2
 ---
 
 # {{Nombre del Personaje}}

@@ -1,5 +1,9 @@
 ---
-tags: entidad, spren, Deshecho, Roshar
+tags:
+  - entidad
+  - spren
+  - Deshecho
+  - Roshar
 alias: [Heart of the Revel]
 ---
 

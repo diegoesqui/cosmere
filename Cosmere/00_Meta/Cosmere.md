@@ -1,5 +1,6 @@
 ---
-tags: concepto
+tags:
+  - concepto
 ---
 
 # Cosmere

@@ -1,5 +1,8 @@
 ---
-tags: personaje, Roshar, TejedoraDeLuz
+tags:
+  - personaje
+  - Roshar
+  - TejedoraDeLuz
 alias: [Velo, Radiante]
 ---
 

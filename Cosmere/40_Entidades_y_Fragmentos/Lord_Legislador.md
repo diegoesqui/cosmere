@@ -1,5 +1,8 @@
 ---
-tags: personaje, entidad, scadrial
+tags:
+  - personaje
+  - entidad
+  - scadrial
 alias: [Lasca del Infinito, Rashek]
 ---
 

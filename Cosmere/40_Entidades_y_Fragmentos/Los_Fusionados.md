@@ -1,5 +1,7 @@
 ---
-tags: entidad, Roshar
+tags:
+  - entidad
+  - Roshar
 ---
 
 # Los Fusionados

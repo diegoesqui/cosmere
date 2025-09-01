@@ -1,5 +1,7 @@
 ---
-tags: concepto, entidad
+tags:
+  - concepto
+  - entidad
 ---
 
 # Esquirlas de Adonalsium

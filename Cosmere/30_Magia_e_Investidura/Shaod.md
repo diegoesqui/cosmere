@@ -1,5 +1,8 @@
 ---
-tags: concepto, magia, Sel
+tags:
+  - concepto
+  - magia
+  - Sel
 ---
 
 # Shaod

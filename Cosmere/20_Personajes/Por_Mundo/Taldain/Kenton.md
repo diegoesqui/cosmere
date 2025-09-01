@@ -1,5 +1,7 @@
 ---
-tags: personaje, Taldain
+tags:
+  - personaje
+  - Taldain
 ---
 
 # Kenton

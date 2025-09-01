@@ -1,5 +1,7 @@
 ---
-tags: concepto, libro
+tags:
+  - concepto
+  - libro
 ---
 
 # Palabras radiantes (libro)

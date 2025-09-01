@@ -1,5 +1,7 @@
 ---
-tags: personaje, Interdimensional
+tags:
+  - personaje
+  - Interdimensional
 alias: [El Asesino de Blanco, Sinverdad de Shinovar]
 ---
 

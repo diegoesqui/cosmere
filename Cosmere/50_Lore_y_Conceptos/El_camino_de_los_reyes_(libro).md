@@ -1,5 +1,7 @@
 ---
-tags: concepto, Roshar
+tags:
+  - concepto
+  - Roshar
 ---
 
 # El camino de los reyes (libro)

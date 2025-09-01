@@ -1,5 +1,8 @@
 ---
-tags: concepto, libro, Roshar
+tags:
+  - concepto
+  - libro
+  - Roshar
 ---
 
 # El Ritmo de la Guerra (libro)

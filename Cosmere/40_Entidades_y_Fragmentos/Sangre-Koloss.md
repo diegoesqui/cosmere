@@ -1,5 +1,8 @@
 ---
-tags: concepto, entidad, Scadrial
+tags:
+  - concepto
+  - entidad
+  - Scadrial
 alias: [Koloss-blooded]
 ---
 

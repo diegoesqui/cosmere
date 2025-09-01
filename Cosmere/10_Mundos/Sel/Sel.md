@@ -1,5 +1,6 @@
 ---
-tags: mundo
+tags:
+  - mundo
 alias: [Mundo Selish]
 ---
 

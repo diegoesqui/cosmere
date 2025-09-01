@@ -1,5 +1,7 @@
 ---
-tags: personaje, Roshar
+tags:
+  - personaje
+  - Roshar
 alias: [Torol Sadeas]
 ---
 

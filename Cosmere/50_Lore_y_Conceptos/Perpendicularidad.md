@@ -1,5 +1,7 @@
 ---
-tags: concepto, cosmere
+tags:
+  - concepto
+  - cosmere
 alias: [Perpendicularity]
 ---
 

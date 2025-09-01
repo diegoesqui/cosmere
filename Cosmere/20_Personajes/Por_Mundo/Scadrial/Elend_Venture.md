@@ -1,5 +1,7 @@
 ---
-tags: personaje, scadrial
+tags:
+  - personaje
+  - scadrial
 alias: [Lord Venture]
 ---
 

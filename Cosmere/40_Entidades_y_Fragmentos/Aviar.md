@@ -1,5 +1,8 @@
 ---
-tags: concepto, entidad, Primero del Sol
+tags:
+  - concepto
+  - entidad
+  - Primero del Sol
 ---
 
 # Aviar

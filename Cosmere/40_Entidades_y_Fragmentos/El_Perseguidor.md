@@ -1,5 +1,8 @@
 ---
-tags: personaje, Roshar, Fusionado
+tags:
+  - personaje
+  - Roshar
+  - Fusionado
 alias: [The Pursuer]
 ---
 

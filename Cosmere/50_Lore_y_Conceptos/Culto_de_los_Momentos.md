@@ -1,5 +1,7 @@
 ---
-tags: faccion, Roshar
+tags:
+  - faccion
+  - Roshar
 ---
 
 # Culto de los Momentos

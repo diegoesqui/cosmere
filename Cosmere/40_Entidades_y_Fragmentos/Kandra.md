@@ -1,5 +1,7 @@
 ---
-tags: concepto, Scadrial
+tags:
+  - concepto
+  - Scadrial
 alias: []
 ---
 

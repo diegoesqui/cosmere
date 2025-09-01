@@ -1,5 +1,8 @@
 ---
-tags: mundo, Shadesmar, honorspren
+tags:
+  - mundo
+  - Shadesmar
+  - honorspren
 alias: [Lasting Integrity]
 ---
 

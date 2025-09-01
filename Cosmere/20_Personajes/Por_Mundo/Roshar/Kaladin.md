@@ -1,5 +1,8 @@
 ---
-tags: personaje, Roshar, CorredorDelViento
+tags:
+  - personaje
+  - Roshar
+  - CorredorDelViento
 alias: [Kal, Tempestad, Kaladin Bendito por la Tormenta]
 ---
 

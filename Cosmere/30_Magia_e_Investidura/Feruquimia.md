@@ -16,6 +16,11 @@ Un Feruquimista pasa un período de tiempo siendo más débil en un atributo par
 
 La Feruquimia es un arte "end-neutral": el poder proviene del propio Feruquimista y no se crea ni se destruye, solo se almacena y se recupera. Originalmente, era un arte exclusivo de los terrisanos, y el [[Lord Legislador]] los persiguió brutalmente para erradicarlo.
 
+## Nacidobles y Composición
+En la era de *[[Aleación de Ley (libro)|Aleación de Ley]]*, han aparecido personas conocidas como **[[Nacido de la Bruma (Nacidoble)|Nacidobles]]**, que poseen una habilidad alomántica y una feruquímica.
+
+Una habilidad extremadamente poderosa y rara disponible para los Nacidobles es la **Composición (Compounding)**. Un Nacidoble puede usar su Alomancia para quemar un mentemental que él mismo ha cargado feruquímicamente. Al hacerlo, libera una cantidad masiva del atributo almacenado, mucho mayor que la que se almacenó originalmente. Por ejemplo, un Compositor de Oro como [[Miles Dagouter]] puede almacenar una pequeña cantidad de salud y luego quemar ese mentemental para obtener una curación casi infinita, volviéndose virtualmente inmortal.
+
 ## Conexiones Relevantes
 * **Artes relacionados:** [[Alomancia]], [[Hemalurgia]]
 * **Mundos asociados:** [[10_Mundos/Scadrial/Scadrial|Scadrial]]

@@ -28,6 +28,10 @@ La Alomancia se divide en ocho metales básicos, agrupados en pares de un metal 
     *   **Cobre (Tirón Interno):** Oculta los pulsos alománticos propios y de quienes están cerca, haciéndolos indetectables para un [[Buscador]].
     *   **Bronce (Empuje Interno):** Permite oír los pulsos alománticos de otros, detectando su uso.
 
+### Metales de Aumento (Temporales)
+*   **Cadmio (Tirón Interno):** Crea una "burbuja" de tiempo ralentizado alrededor del alomántico, haciendo que el tiempo pase más lento dentro que fuera. Los que están fuera ven al alomántico moverse a gran velocidad.
+*   **Bendaleo (Empuje Interno):** Crea una "burbuja" de tiempo acelerado alrededor del alomántico, haciendo que el tiempo pase más rápido dentro que fuera. Es el metal que usa [[Wayne]].
+
 ### Metales Superiores
 Existen metales de poder superior, como el [[Atium]] y el [[Oro]].
 

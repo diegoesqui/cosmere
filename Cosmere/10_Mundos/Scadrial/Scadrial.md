@@ -28,6 +28,13 @@ Durante la era del [[Imperio Final]], Scadrial es un mundo sombrío y oprimido.
 ## Esquirlas
 *   [[Conservación]]
 *   [[Ruina]]
+*   [[Armonía]] (la fusión de los dos anteriores tras los eventos de la primera era).
+
+### Sucesos en la 'Era de la Aleación'
+La historia avanza trescientos años. Scadrial ha entrado en una era de modernidad, con tecnologías como el ferrocarril, la iluminación eléctrica y los primeros rascacielos. El mundo ya no está cubierto de cenizas, el sol es amarillo y las plantas son verdes, gracias a la obra de [[Armonía]].
+
+*   **Sociedad:** La sociedad ha evolucionado. La capital, [[Elendel]], es una vasta metrópolis gobernada por un senado. Las tierras circundantes, conocidas como los [[Áridos]], son una frontera salvaje donde la ley es escasa.
+*   **Magia:** La [[Alomancia]] y la [[Feruquimia]] son más comunes, y han aparecido los [[Nacido de la Bruma (Nacidoble)|Nacidobles]], personas con un poder de cada tipo.
 
 ## Apariciones
 * [[El imperio final (libro)]]

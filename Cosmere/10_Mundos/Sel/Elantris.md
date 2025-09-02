@@ -8,7 +8,9 @@ tags:
 # Elantris
 
 ## Descripción
-Elantris es una ciudad ubicada en el país de Arelon, en el planeta de [[10_Mundos/Sel/Sel|Sel]]. Antiguamente, era la ciudad de los dioses, habitada por los Elantrinos, seres de piel plateada que podían usar el [[AonDor]]. Tras un cataclismo conocido como la Reod, la magia de Elantris falló y la ciudad cayó en la decadencia, convirtiéndose en una prisión para aquellos afectados por la [[Shaod]].
+Elantris es una ciudad ubicada en el país de [[Arelon]], en el planeta de [[Sel]]. Antiguamente, era la ciudad de los dioses, habitada por los Elantrinos, seres de piel plateada y cabello blanco que podían usar la magia del [[AonDor]]. La propia ciudad brillaba con una luz interior y su arquitectura era una obra de arte monumental.
+
+Tras un cataclismo conocido como la [[Reod]], la magia de Elantris falló. La ciudad perdió su brillo y quedó cubierta por una capa de mugre y suciedad de origen fúngico, y sus piedras se volvieron frágiles. Se convirtió en una prisión para aquellos afectados por la [[Shaod]], quienes eran arrojados a la ciudad para que se pudrieran en un estado de dolor y hambre constantes.
 
 ## Eventos Clave
 *   **La Reod:** Un cataclismo que rompió la conexión de Elantris con el [[Dor]], convirtiendo a sus habitantes en seres malditos y doloridos.

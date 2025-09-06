@@ -1,21 +1,31 @@
 ---
 tags:
   - entidad
-  - cosmere
-alias: [Sleepless, Dysian Aimian]
+  - Aimmia
+alias:
+  - The Sleepless
+  - Dysian Aimians
 ---
 
 # Insomnes
 
 ## Descripción General
-Los Insomnes (Sleepless) son una antigua raza no humana del [[Cosmere]], también conocidos como Dysian Aimian. Son seres compuestos, formados por enjambres de criaturas más pequeñas, parecidas a cremlinos, llamadas "hordinos". Estos hordinos colaboran para formar un cuerpo y una conciencia unificada.
+Los Insomnes, también conocidos como los Aimianos Dysianos, son una especie de mente colmena. Cada "individuo" es en realidad un enjambre compuesto por miles de pequeñas criaturas insectoides llamadas "hordelings". Estos hordelings pueden unirse para formar cuerpos más grandes y complejos, incluyendo imitaciones casi perfectas de seres humanos.
 
-## Mecánicas y Biología
-Los Insomnes pueden alterar su forma y apariencia a voluntad, criando selectivamente y reconfigurando sus hordinos para imitar diferentes formas, incluyendo la humana. Cada hordino puede tener una función específica (ojos, piel, músculo). Pueden desprender hordinos individuales para que actúen como espías.
+Se consideran a sí mismos como guardianes del Cosmere, dedicados a protegerlo de amenazas existenciales y a evitar catástrofes como las que han presenciado en el pasado.
 
-## Personajes Notables
-* **Arclo:** Un Insomne que se encuentra con [[Lift]] en Yeddaw, haciéndose pasar por un anciano filósofo.
+## Mecánicas
+- **Mente Colmena:** La conciencia de un Insomne no reside en un solo hordeling, sino que se distribuye a lo largo del enjambre. Existen hordelings especializados para diferentes funciones (memoria, vista, habla, etc.).
+- **Imitación:** Son capaces de imitar formas de vida, especialmente humanos. [[Nikli]], el Vigésimo Cuarto enjambre, demostró la capacidad de formar un cuerpo humano con tatuajes para ocultar las "costuras" entre hordelings.
+- **Comunicación:** Los enjambres pueden comunicarse entre sí a grandes distancias a través de un "zumbido" o vibración.
+- **Resistencia:** Son extremadamente difíciles de matar. Destruir su forma humanoide no daña al enjambre, que simplemente puede reagruparse.
 
-## Apariciones
-* [[Danzante del Filo]]
-* Mencionados o vistos en otros libros del [[Archivo de las Tormentas]].
+## Historia
+Los Insomnes han actuado como guardianes de la [[Esquirla del Amanecer]] en [[Akinah]] durante milenios, asumiendo el deber después de que los guardianes originales, los [[larkin]], casi se extinguieran.
+
+En el libro [[Esquirla del Amanecer (libro)]], el enjambre conocido como [[Nikli]] se infiltró en la tripulación de [[Rysn]] para intentar disuadirla de llegar a [[Akinah]]. Tras el fracaso de sus intentos, los Insomnes se enfrentaron a la expedición, pero [[Rysn]], como nueva portadora de la Esquirla, negoció un pacto con ellos para proteger el secreto de forma conjunta.
+
+## Conexiones Relevantes
+* **Personajes notables:** [[Nikli]]
+* **Mundos asociados:** [[Akinah]]
+* **Conceptos asociados:** [[Esquirla del Amanecer]]

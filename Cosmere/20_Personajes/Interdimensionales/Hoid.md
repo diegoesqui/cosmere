@@ -19,6 +19,9 @@ Las habilidades de Hoid son variadas y misteriosas. Se sabe que es un [[Tejedor 
 ## Historia
 La historia de Hoid es un misterio. Ha estado presente en muchos de los acontecimientos más importantes del Cosmere, y a menudo parece estar trabajando para sus propios fines.
 
+### Sucesos en 'El aliento de los dioses'
+Hoid aparece en T'Telir como un cuentacuentos contratado por [[Sondeluz]]. Utiliza polvos y arenas de colores para crear elaboradas ilustraciones en el aire que acompañan sus relatos. Sus historias, aunque crípticas, revelan verdades sobre la historia de [[Hallandren]], la Multiguerra y los [[Cinco Eruditos]].
+
 ### Sucesos en 'El camino de los reyes'
 Actúa como el Sagaz del rey [[Elhokar Kholin]], ofreciendo consejos y comentarios mordaces a la corte alezi.
 
@@ -43,6 +46,7 @@ En este libro, Hoid se encuentra en [[Komashi]] petrificado en forma de estatua 
 * **Conocidos:** Casi todos los personajes importantes del Cosmere.
 
 ## Apariciones
+* [[El aliento de los dioses (libro)]]
 * [[El camino de los reyes (libro)]]
 * [[Palabras radiantes (libro)]]
 * [[Juramentada (libro)]]

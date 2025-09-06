@@ -28,5 +28,12 @@ Utilizan a criminales y revolucionarios como peones para lograr sus fines, mante
 * **Líderes/Agentes Notables:** [[Edwarn Ladrian]], [[Miles Dagouter]]
 * **Enemigos:** [[Waxillium Ladrian]], [[Armonía]]
 
+### Sucesos en 'Sombras de Identidad'
+La influencia y las operaciones del Set se vuelven más evidentes. Se revela que están siendo guiados o manipulados por la kandra corrompida [[Paalm]] (Sangradora), quien a su vez está bajo la influencia de la Esquirla [[Trell]]. El Set orquesta disturbios y asesinatos para desestabilizar Elendel y provocar una guerra civil.
+
 ## Apariciones
 * [[Aleación de Ley (libro)|Aleación de Ley]]
+* [[Sombras de Identidad (libro)|Sombras de Identidad]]
+* [[Brazales de Duelo (libro)|Brazales de Duelo]]
+* [[El metal perdido (libro)|El metal perdido]]
+

@@ -11,28 +11,27 @@
             "id": "bf849c8e07e2de46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cosmere/50_Lore_y_Conceptos/Mision_a_Kholinar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mision_a_Kholinar"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
             "id": "4069bc35d5a51103",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Cosmere/20_Personajes/Interdimensionales/Hoid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hoid"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,43 +179,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4069bc35d5a51103",
+  "active": "bf849c8e07e2de46",
   "lastOpenFiles": [
-    "Cosmere/20_Personajes/Por_Mundo/Roshar/Moash.md",
-    "Cosmere/20_Personajes/Por_Mundo/Scadrial/Vin.md",
     "Cosmere/50_Lore_y_Conceptos/Mision_a_Kholinar.md",
-    "Cosmere/20_Personajes/Por_Mundo/Roshar/Sigzil.md",
-    "Cosmere/00_Meta/_Plantillas/Plantilla_Concepto.md",
-    "Cosmere/30_Magia_e_Investidura/Eteres.md",
-    "Cosmere/99_Analizados/Brandon Sanderson - Novela Secreta 1 - Trenza del mar Esmeralda.txt",
-    "Cosmere/50_Lore_y_Conceptos/Trenza_del_mar_Esmeralda_(libro).md",
-    "Cosmere/40_Entidades_y_Fragmentos/Xisis.md",
-    "Cosmere/20_Personajes/Por_Mundo/Lumar/Capitana_Cuervo.md",
-    "Cosmere/30_Magia_e_Investidura/Éteres.md",
-    "Cosmere/20_Personajes/Interdimensionales/Riina.md",
-    "Cosmere/20_Personajes/Por_Mundo/Lumar/Charlie.md",
-    "Cosmere/10_Mundos/Lumar.md",
-    "Cosmere/20_Personajes/Por_Mundo/Lumar/Trenza.md",
-    "Cosmere/20_Personajes/Por_Mundo/Lumar",
-    "Cosmere/00_Meta/_Plantillas/Plantilla_Mundo.md",
-    "Cosmere/00_Meta/_Plantillas/Plantilla_Personaje.md",
-    "Cosmere/20_Personajes/Por_Mundo/Scadrial/Sazed.md",
-    "Cosmere/0_A_Analizar/Brandon Sanderson - Novela Secreta 4 - El hombre iluminado.txt",
-    "Cosmere/0_A_Analizar/Brandon Sanderson - Novela Secreta 3 - Yumi y el pintor de pesadillas.txt",
-    "Cosmere/0_A_Analizar/Brandon Sanderson - Novela Secreta 2 - La guía del mago frugal para sobrevivir en la Inglaterra del.txt",
-    "Cosmere/0_A_Analizar/Brandon Sanderson - Novela Secreta 1 - Trenza del mar Esmeralda.txt",
-    "Cosmere/20_Personajes/Por_Mundo/Scadrial/Mare.md",
-    "Cosmere/20_Personajes/Por_Mundo/Scadrial/Kelsier.md",
-    "Cosmere/20_Personajes/Por_Mundo/Scadrial/Brisa.md",
     "Cosmere/20_Personajes/Interdimensionales/Hoid.md",
-    "Cosmere/99_Analizados/El Pozo de la Ascensión. (Ed. revisada) - Brandon Sanderson.txt",
-    "Cosmere/50_Lore_y_Conceptos/El_pozo_de_la_ascension_(libro).md",
-    "Cosmere/50_Lore_y_Conceptos/El_Asedio_de_Luthadel.md",
-    "Cosmere/20_Personajes/Por_Mundo/Scadrial/Allrianne_Cett.md",
-    "Cosmere/20_Personajes/Por_Mundo/Scadrial/Tindwyl.md",
-    "Cosmere/20_Personajes/Por_Mundo/Scadrial/Zane_Venture.md",
-    "Cosmere/0_A_Analizar/El Pozo de la Ascensión. (Ed. revisada) - Brandon Sanderson.txt",
-    "Cosmere/99_Analizados/El imperio final - Brandon Sanderson.txt",
-    "Cosmere/99_Analizados/El Héroe de Las Eras - Brandon Sanderson.txt"
+    "Cosmere/50_Lore_y_Conceptos/Esquirla_del_Amanecer.md",
+    "Cosmere/40_Entidades_y_Fragmentos/Paliah.md",
+    "Cosmere/40_Entidades_y_Fragmentos/Esquirlas_de_Adonalsium.md",
+    "Cosmere/20_Personajes/Por_Mundo/Scadrial/Waxillium Ladrian.md",
+    "Cosmere/50_Lore_y_Conceptos/Los_Cinco_Eruditos.md",
+    "Cosmere/30_Magia_e_Investidura/Despertar.md",
+    "Cosmere/99_Analizados/El_Aliento_de_los_Dioses.txt",
+    "Cosmere/20_Personajes/Por_Mundo/Nalthis/Vasher.md",
+    "Cosmere/20_Personajes/Por_Mundo/Nalthis/Sondeluz.md",
+    "Cosmere/20_Personajes/Por_Mundo/Nalthis/Susebron.md",
+    "Cosmere/20_Personajes/Por_Mundo/Nalthis/Vivenna.md",
+    "Cosmere/20_Personajes/Por_Mundo/Nalthis/Siri.md",
+    "Cosmere/20_Personajes/Por_Mundo/Nalthis",
+    "Cosmere/40_Entidades_y_Fragmentos/Retornados.md",
+    "Cosmere/30_Magia_e_Investidura/BioCromatica.md",
+    "Cosmere/10_Mundos/Nalthis/Hallandren.md",
+    "Cosmere/10_Mundos/Nalthis/Idris.md",
+    "Cosmere/10_Mundos/Nalthis.md",
+    "Cosmere/10_Mundos/Nalthis",
+    "Cosmere/99_Analizados/Esquirla_del_Amanecer.txt",
+    "Cosmere/10_Mundos/Roshar/Akinah.md",
+    "Cosmere/20_Personajes/Por_Mundo/Roshar/Cuerda.md",
+    "Cosmere/0_A_Analizar/Esquirla del amanecer - El archivo de las tormentas_ 3_5 -- Brandon Sanderson -- Archivo de las tormentas, 2021 -- ePubLibre -- 514459469da8acc397dec0770b527407 -- Anna’s Archive.txt",
+    "Cosmere/99_Analizados/99_Arcanum ilimitado - Brandon Sanderson.txt",
+    "Cosmere/0_A_Analizar/El aliento de los Dioses - Brandon Sanderson.txt",
+    "Cosmere/0_A_Analizar/99_Arcanum ilimitado - Brandon Sanderson.txt",
+    "Cosmere/40_Entidades_y_Fragmentos/Paalm.md",
+    "Cosmere/99_Analizados/7_El metal perdido (Nacidos de la bruma [Mistborn] 7) (Spanish -- Brandon Sanderson; Manuel Viciano Delibano -- Nacidos de la Bruma (Mistborn) 7, 1- -- 9788413148625 -- 6056c75fadcc2396b58205a795919627 -- Anna’s Archive.txt",
+    "Cosmere/10_Mundos/Scadrial/Bilming.md",
+    "Cosmere/30_Magia_e_Investidura/Trellium.md",
+    "Cosmere/99_Analizados/6_Brazales de duelo_ Nacidos de la bruma -Mistborn- VI -- Brandon Sanderson; Manuel de los Reyes García Campos -- Penguin Random House Grupo Editorial, -- 9788466659628 -- 107693ab42347ff3c0b665fa6cdeaf83 -- Anna’s Archive.txt",
+    "Cosmere/10_Mundos/Scadrial/Nueva Seran.md",
+    "Cosmere/20_Personajes/Por_Mundo/Scadrial/Scadrianos del Sur.md",
+    "Cosmere/30_Magia_e_Investidura/Brazales de Duelo (artefacto).md"
   ]
 }

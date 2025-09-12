@@ -2,7 +2,7 @@
 tags:
   - personaje
   - Interdimensional
-alias: [El Asesino de Blanco, Sinverdad de Shinovar]
+alias: [El Asesino de Blanco, Sinverdad de Shinovar, Szeth-hijo-Honor, Szeth-hijo-hijo-Vallano]
 ---
 
 # Szeth-hijo-hijo-Vallano
@@ -49,3 +49,15 @@ Como guardaespaldas de [[Lift]], Szeth lucha por comprender su nuevo propósito 
 * [[Palabras radiantes]]
 * [[Juramentada (libro)]]
 * [[El Ritmo de la Guerra (libro)]]
+* [[Viento y verdad (libro)]]
+
+### Sucesos en 'Viento y verdad'
+* **Misión a Shinovar:** Es enviado por [[Dalinar Kholin]] a su tierra natal, [[Shinovar]], junto con [[Kaladin]]. Su objetivo es encontrar a [[Ishar]] y, al mismo tiempo, llevar a cabo una "purga" y una "venganza" que le debe a su pueblo. Esta misión es su cruzada para alcanzar el Cuarto Ideal de los [[Rompedores del Cielo]].
+* **Flashback y Orígenes:** Se revela su infancia como Szeth-hijo-Neturo. Vivía una vida pacífica como pastor junto a su padre [[Neturo-hijo-Vallano]], su madre [[Zeenid-hija-Beth]] y su hermana mayor [[Elid-hija-Zeenid]]. El incidente que marcó su vida fue el descubrimiento de una nueva piedra sagrada. Tras una incursión de soldados shin corruptos que matan a su oveja mascota, Szeth, en un arrebato de ira, mata a uno de ellos con la piedra. Inmediatamente después, oye una misteriosa "Voz" en su mente por primera vez. Este evento lo lleva a ser reclutado a la fuerza en el ejército shin. La Voz, que se identifica como el spren de la piedra, lo guía para sobresalir en su entrenamiento y en su primer combate real, llegando incluso a salvarle la vida de forma sobrenatural.
+* **El Deshecho en Shinovar:** Revela que un [[Los Deshechos|Deshecho]] se encuentra en [[Shinovar]] y que su pueblo lo aceptó, lo que lo llevó a su exilio como "Sinverdad".
+* **Peregrinaje y Revelación:** En el presente, comienza un "peregrinaje" para purgar los monasterios shin. Tras varios duelos contra portadores de Hojas de Honor corruptos, se enfrenta a la portadora de la hoja de los Portadores del Polvo, quien resulta ser su propia hermana, [[Elid-hija-Zeenid]]. Tras derrotarla, ella le revela la verdad antes de morir: el peregrinaje es en realidad una prueba diseñada por [[Ishar]] y los demás [[Heraldos]] para determinar si Szeth es digno de ascender y convertirse en un nuevo Heraldo para reemplazar al caído [[Jezrien]] y reforjar el [[Juramento]]. [[Nalan|Nale]] confirma este plan.
+* **Interacción con Sangre Nocturna:** Su espada, [[Sangre Nocturna]], muestra una creciente autoconciencia y personalidad. Mantiene conversaciones con [[Kaladin]] y [[Sylphrena]], y revela recuerdos de su creación a manos de [[Vasher]] (a quien llama por su antiguo nombre) y [[Shashara]]. La espada expresa confusión sobre su propósito de "destruir el mal" y su propia moralidad.
+* **Conflicto y Decisión:** Guiado por [[Kaladin]], Szeth se enfrenta a su necesidad de obedecer ciegamente. En el penúltimo monasterio, se niega a luchar contra [[Nalan|Nale]], forzando a Kaladin a intervenir.
+* **Quinto Ideal y Rechazo:** En la confrontación final con [[Ishar]] y los otros portadores de Honor, y tras una brutal paliza, alcanza una epifanía sobre la autonomía y la verdadera naturaleza de la ley. Pronuncia el Quinto Ideal de los [[Rompedores del Cielo]]: "Yo soy la ley". Inmediatamente después, rechaza a su altospren y rompe su vínculo, decidiendo buscar a los Rompedores del Cielo disidentes.
+* **Enfrentamiento Final:** Ishar lo somete a una tortura emocional, pero es salvado por el sacrificio de [[Kaladin]]. En la batalla final, se ve obligado a matar a las versiones corruptas de sus antiguos mentores y familia, incluyendo a su propio padre, [[Neturo-hijo-Vallano]], en un acto de piedad.
+* **Supervivencia y Nuevo Camino:** Tras la batalla, casi es consumido por [[Sangre Nocturna]], pero es salvado por la intervención de Kaladin y la propia espada. Aunque queda gravemente herido, perdiendo un brazo, sobrevive. Al final, decide vivir y buscar una forma mejor de hacer el bien, comenzando por ayudar a su pueblo en la nueva era de oscuridad bajo el dominio de [[Represalia]].

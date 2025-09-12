@@ -1,27 +1,28 @@
 ---
 tags:
   - personaje
-  - Roshar
-alias: []
+  - roshar
+  - corredor_del_viento
 ---
 
 # Dabbid
 
 ## Resumen
-Un miembro leal del [[Puente Cuatro]]. Es un hombre callado y tímido que sufre de un trauma que le ha impedido hablar durante mucho tiempo.
+*Un miembro de los [[Corredores del Viento]] que anteriormente formaba parte del [[Puente Cuatro]]. Es seguido por una [[honorspren]] llamada [[Lusintia]], lo que sugiere que está en camino de convertirse en un [[Corredor del Viento]] completo.*
+
+## Apariencia y Personalidad
+*No se describe su apariencia. Es un personaje silencioso y trabajador.*
+
+## Habilidades e Investidura
+*Como escudero de [[Kaladin]], tiene acceso limitado a las potencias de [[Adhesión]] y [[Gravitación]]. La presencia de [[Lusintia]] indica que pronto formará su propio [[Vínculo Nahel]].*
 
 ## Historia
-Dabbid es uno de los miembros originales del [[Puente Cuatro]] bajo el mando de [[Kaladin]]. A pesar de su incapacidad para hablar, es un miembro leal y trabajador del equipo.
-
-### Sucesos en 'El Ritmo de la Guerra'
-Durante la ocupación de [[10_Mundos/Roshar/Urithiru|Urithiru]] por los Fusionados, Dabbid juega un papel más activo. [[Kaladin]] se toma el tiempo para hablar con él y ayudarlo a procesar su trauma. Con el aliento de Kaladin, Dabbid finalmente comienza a hablar de nuevo, superando el bloqueo mental que lo había silenciado. Se convierte en un ayudante de confianza en la clínica de [[Lirin]].
+*Se le ve trabajando en la intendencia de los [[Corredores del Viento]] en [[Urithiru]]. Una [[honorspren]] llamada [[Lusintia]] ha comenzado a seguirlo.*
 
 ## Conexiones Relevantes
-* **Líder:** [[Kaladin]]
-* **Unidad:** [[Puente Cuatro]]
+* **Líderes:** [[Kaladin]], [[Sigzil]]
+* **Spren:** [[Lusintia]]
+* **Organización:** [[Caballeros Radiantes]], [[Corredores del Viento]], [[Puente Cuatro]]
 
 ## Apariciones
-* [[El camino de los reyes (libro)]]
-* [[Palabras radiantes (libro)]]
-* [[Juramentada (libro)]]
-* [[El Ritmo de la Guerra (libro)]]
+* [[Viento y verdad (libro)]]

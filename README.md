@@ -6,7 +6,24 @@ Este repositorio contiene una base de conocimiento del universo Cosmere de Brand
 
 Este proyecto se encuentra actualmente en un estado de mantenimiento. Se han analizado los siguientes libros y sus contenidos han sido incorporados a la base de conocimiento:
 
+*   El camino de los reyes
+*   Palabras radiantes
+*   Juramentada
+*   El Ritmo de la Guerra
 *   Viento y verdad
+*   El imperio final
+*   El Pozo de la Ascensión
+*   El Héroe de Las Eras
+*   Aleacion de Ley
+*   Sombras de Identidad
+*   Brazales de duelo
+*   El metal perdido
+*   Elantris
+*   El aliento de los Dioses
+*   Arcanum ilimitado (incluyendo "Esquirla del amanecer")
+*   Trenza del mar Esmeralda
+*   Yumi y el pintor de pesadillas
+*   El hombre iluminado
 
 A medida que se publiquen nuevos libros de la saga, se analizarán y se añadirán a esta base de conocimiento.
 
